@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Quiz fotográfico sobre castelos portugueses, inspirado na mecânica do Joker.">
+  <title>Castelo ou Mistério?</title>
+  <link rel="preconnect" href="https://upload.wikimedia.org">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="Castelo ou Mistério — início">
+        <span class="brand-mark">♜</span>
+        <span><b>CASTELO</b><small>OU MISTÉRIO?</small></span>
+      </a>
+      <button id="soundButton" class="icon-button" type="button" aria-label="Ativar música" aria-pressed="false">♪</button>
+    </header>
+
+    <section id="startScreen" class="start-screen panel">
+      <div class="eyebrow">✦ QUIZ DO REINO DE PORTUGAL ✦</div>
+      <h1>Conheces os castelos<br><em>de lés a lés?</em></h1>
+      <p class="lead">Aceita o desafio da Coroa: reconhece 12 castelos pela fotografia. Tens 7 Jokers para quebrar respostas falsas — usa-os com sabedoria.</p>
+      <div class="rules-grid">
+        <div><strong>12</strong><span>perguntas</span></div>
+        <div><strong>4</strong><span>opções</span></div>
+        <div><strong>7</strong><span>Jokers</span></div>
+        <div><strong>50 000 €</strong><span>prémio virtual</span></div>
+      </div>
+      <button id="startButton" class="primary-button" type="button">Começar o desafio <span>→</span></button>
+      <p id="catalogueCount" class="catalogue-note">A preparar o catálogo…</p>
+    </section>
+
+    <section id="gameScreen" class="game-screen" hidden>
+      <aside class="ladder panel" aria-label="Árvore de prémios">
+        <p class="aside-label">ÁRVORE DE PRÉMIOS</p>
+        <ol id="moneyLadder"></ol>
+      </aside>
+
+      <section class="quiz-card panel">
+        <div class="quiz-meta">
+          <span id="questionNumber">PERGUNTA 1 DE 12</span>
+          <div class="timer" aria-label="Tempo restante"><span id="timerValue">30</span><small>s</small></div>
+        </div>
+        <div class="progress"><span id="progressBar"></span></div>
+        <figure class="castle-photo">
+          <img id="castleImage" alt="Castelo português a identificar">
+          <figcaption><a id="imageCredit" target="_blank" rel="noopener">Fonte e autoria da fotografia ↗</a></figcaption>
+        </figure>
+        <h2>Que castelo é este?</h2>
+        <div id="answers" class="answers"></div>
+        <div class="action-row">
+          <button id="jokerButton" class="joker-button" type="button"><span class="joker-symbol">★</span> USAR JOKER <b id="jokerCount">7</b></button>
+          <button id="confirmButton" class="confirm-button" type="button" disabled>Confirmar resposta</button>
+        </div>
+        <p id="feedback" class="feedback" aria-live="polite"></p>
+      </section>
+
+      <aside class="status panel">
+        <p class="aside-label">EM JOGO</p>
+        <div class="joker-orbit"><span>★</span><strong id="sideJokerCount">7</strong><small>JOKERS</small></div>
+        <p>Um Joker elimina uma opção errada e acrescenta 15 segundos.</p>
+      </aside>
+    </section>
+
+    <section id="endScreen" class="end-screen panel" hidden>
+      <div class="eyebrow">FIM DO DESAFIO</div>
+      <h1 id="endTitle">Uma muralha de conhecimento!</h1>
+      <div class="result-prize"><span id="finalPrize">0 €</span><small>PRÉMIO VIRTUAL</small></div>
+      <p id="endSummary"></p>
+      <button id="restartButton" class="primary-button" type="button">Jogar novamente <span>↻</span></button>
+    </section>
+  </main>
+  <footer>❦ Projeto educativo independente, inspirado na mecânica de concursos televisivos. Não afiliado à RTP. ❦</footer>
+  <script src="app.js" defer></script>
+</body>
+</html>
+
