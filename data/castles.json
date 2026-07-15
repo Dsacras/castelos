@@ -1,0 +1,702 @@
+[
+  {
+    "id": "castle-4841074",
+    "name": "Castelo da Covilhã",
+    "articleTitle": "Castelo da Covilhã",
+    "description": "Muralha medieval em Covilhã, de que restam vestígios",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Muralhascvl.jpg",
+    "imageFile": "Muralhascvl.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_da_Covilh%C3%A3",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Muralhascvl.jpg"
+  },
+  {
+    "id": "castle-87031",
+    "name": "Castelo da Guarda",
+    "articleTitle": "Castelo da Guarda",
+    "description": "castelo medieval na Guarda",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Nt-castelo-guarda.jpg/1280px-Nt-castelo-guarda.jpg",
+    "imageFile": "Nt-castelo-guarda.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_da_Guarda",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Nt-castelo-guarda.jpg"
+  },
+  {
+    "id": "castle-218106",
+    "name": "Castelo da Lourinhã",
+    "articleTitle": "Castelo da Lourinhã",
+    "description": "antigo castelo medieval actualmente inexistente",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Eglise_Matriz_Lourinh%C3%A3.jpg",
+    "imageFile": "Eglise_Matriz_Lourinhã.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_da_Lourinh%C3%A3",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Eglise_Matriz_Lourinh%C3%A3.jpg"
+  },
+  {
+    "id": "castle-217699",
+    "name": "Castelo da Lousa",
+    "articleTitle": "Castelo da Lousa",
+    "description": "castelo romano junto ao Guadiana no concelho de Mourão",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Castelo_da_Lousa_01.JPG/1280px-Castelo_da_Lousa_01.JPG",
+    "imageFile": "Castelo_da_Lousa_01.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_da_Lousa",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_da_Lousa_01.JPG"
+  },
+  {
+    "id": "castle-106691",
+    "name": "Castelo da Lousã",
+    "articleTitle": "Castelo da Lousã",
+    "description": "castelo em Lousã, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Castelo_de_Arouce.jpg",
+    "imageFile": "Castelo_de_Arouce.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_da_Lous%C3%A3",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Arouce.jpg"
+  },
+  {
+    "id": "castle-311277",
+    "name": "Castelo da Piconha",
+    "articleTitle": "Castelo da Piconha",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Livro_das_Fortalezas_101-_Piconha.jpg/1280px-Livro_das_Fortalezas_101-_Piconha.jpg",
+    "imageFile": "Livro_das_Fortalezas_101-_Piconha.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_da_Piconha",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Livro_das_Fortalezas_101-_Piconha.jpg"
+  },
+  {
+    "id": "castle-6077173",
+    "name": "Castelo da Senhora da Luz",
+    "articleTitle": "Castelo da Senhora da Luz",
+    "description": "forte em Lagos, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Castelo_da_Senhora_da_Luz.jpg/1280px-Castelo_da_Senhora_da_Luz.jpg",
+    "imageFile": "Castelo_da_Senhora_da_Luz.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_da_Senhora_da_Luz",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_da_Senhora_da_Luz.jpg"
+  },
+  {
+    "id": "castle-185253",
+    "name": "Castelo da Sertã",
+    "articleTitle": "Castelo da Sertã",
+    "description": "castelo medieval na Sertã",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pormenor_da_muralha_do_castelo_da_Sert%C3%A3.jpg/1280px-Pormenor_da_muralha_do_castelo_da_Sert%C3%A3.jpg",
+    "imageFile": "Pormenor_da_muralha_do_castelo_da_Sertã.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_da_Sert%C3%A3",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Pormenor_da_muralha_do_castelo_da_Sert%C3%A3.jpg"
+  },
+  {
+    "id": "castle-303790",
+    "name": "Castelo da Vidigueira",
+    "articleTitle": "Castelo da Vidigueira",
+    "description": "castelo medieval na Vidigueira de que restam as ruínas da torre de menagem",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Castelo_da_Vidigueira_-_Portugal_%283654902030%29.jpg/1280px-Castelo_da_Vidigueira_-_Portugal_%283654902030%29.jpg",
+    "imageFile": "Castelo_da_Vidigueira_-_Portugal_(3654902030).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_da_Vidigueira",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_da_Vidigueira_-_Portugal_%283654902030%29.jpg"
+  },
+  {
+    "id": "castle-103284",
+    "name": "Castelo de Abrantes",
+    "articleTitle": "Castelo de Abrantes",
+    "description": "castelo em Abrantes, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Abrantes-chateau_01_082006.JPG/1280px-Abrantes-chateau_01_082006.JPG",
+    "imageFile": "Abrantes-chateau_01_082006.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Abrantes",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Abrantes-chateau_01_082006.JPG"
+  },
+  {
+    "id": "castle-212419",
+    "name": "Castelo de Albufeira",
+    "articleTitle": "Castelo de Albufeira",
+    "description": "Castelo medieval árabe de Albufeira de que restam vestígios",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-buhera_castle_Albufeira_25_March_2015.JPG/1280px-Al-buhera_castle_Albufeira_25_March_2015.JPG",
+    "imageFile": "Al-buhera_castle_Albufeira_25_March_2015.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Albufeira",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Al-buhera_castle_Albufeira_25_March_2015.JPG"
+  },
+  {
+    "id": "castle-106215",
+    "name": "Castelo de Alcácer do Sal",
+    "articleTitle": "Castelo de Alcácer do Sal",
+    "description": "castelo em Alcácer do Sal, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/2007.03.23.pt.AlcacerdoSal.Castelo.Pousada.jpg",
+    "imageFile": "2007.03.23.pt.AlcacerdoSal.Castelo.Pousada.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Alc%C3%A1cer_do_Sal",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:2007.03.23.pt.AlcacerdoSal.Castelo.Pousada.jpg"
+  },
+  {
+    "id": "castle-118482",
+    "name": "Castelo de Alcanede",
+    "articleTitle": "Castelo de Alcanede",
+    "description": "castelo medieval em Alcanede, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Entrada_do_Castelo_de_Alcanede.JPG/1280px-Entrada_do_Castelo_de_Alcanede.JPG",
+    "imageFile": "Entrada_do_Castelo_de_Alcanede.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Alcanede",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Entrada_do_Castelo_de_Alcanede.JPG"
+  },
+  {
+    "id": "castle-179440",
+    "name": "Castelo de Alcantarilha",
+    "articleTitle": "Castelo de Alcantarilha",
+    "description": "castelo medieval em Alcantarilha, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Castelo_de_Alcantarilha_2_-_05.10.2019.jpg/1280px-Castelo_de_Alcantarilha_2_-_05.10.2019.jpg",
+    "imageFile": "Castelo_de_Alcantarilha_2_-_05.10.2019.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Alcantarilha",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Alcantarilha_2_-_05.10.2019.jpg"
+  },
+  {
+    "id": "castle-179807",
+    "name": "Castelo de Alcobaça",
+    "articleTitle": "Castelo de Alcobaça",
+    "description": "castelo em Alcobaça de que restam troços de muralhas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alcobaca-CastleRuins-CCBY.jpg/1280px-Alcobaca-CastleRuins-CCBY.jpg",
+    "imageFile": "Alcobaca-CastleRuins-CCBY.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Alcoba%C3%A7a",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Alcobaca-CastleRuins-CCBY.jpg"
+  },
+  {
+    "id": "castle-174008",
+    "name": "Castelo de Alcoutim",
+    "articleTitle": "Castelo de Alcoutim",
+    "description": "fortaleza medieval e moderna em Alcoutim",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Castelo_de_Alcoutim_-_Vista_interior.jpg/1280px-Castelo_de_Alcoutim_-_Vista_interior.jpg",
+    "imageFile": "Castelo_de_Alcoutim_-_Vista_interior.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Alcoutim",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Alcoutim_-_Vista_interior.jpg"
+  },
+  {
+    "id": "castle-174181",
+    "name": "Castelo de Alegrete",
+    "articleTitle": "Castelo de Alegrete",
+    "description": "castelo medieval em Alegrete",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Alegrete_-_castelo.jpg",
+    "imageFile": "Alegrete_-_castelo.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Alegrete",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Alegrete_-_castelo.jpg"
+  },
+  {
+    "id": "castle-118336",
+    "name": "Castelo de Alenquer",
+    "articleTitle": "Castelo de Alenquer",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Castelo_de_Alenquer_-_Dec_2005.jpg/1280px-Castelo_de_Alenquer_-_Dec_2005.jpg",
+    "imageFile": "Castelo_de_Alenquer_-_Dec_2005.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Alenquer",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Alenquer_-_Dec_2005.jpg"
+  },
+  {
+    "id": "castle-179927",
+    "name": "Castelo de Alfaiates",
+    "articleTitle": "Castelo de Alfaiates",
+    "description": "castelo medieval em Alfaiates, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CasteloAlfaiates.JPG/1280px-CasteloAlfaiates.JPG",
+    "imageFile": "CasteloAlfaiates.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Alfaiates",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:CasteloAlfaiates.JPG"
+  },
+  {
+    "id": "castle-180032",
+    "name": "Castelo de Alfeizerão",
+    "articleTitle": "Castelo de Alfeizerão",
+    "description": "castelo medieval em Alfeizerão de que restam vestígios",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cast_alfeizerao_6.jpg/1280px-Cast_alfeizerao_6.jpg",
+    "imageFile": "Cast_alfeizerao_6.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Alfeizer%C3%A3o",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Cast_alfeizerao_6.jpg"
+  },
+  {
+    "id": "castle-174547",
+    "name": "Castelo de Algoso",
+    "articleTitle": "Castelo de Algoso",
+    "description": "castelo medieval em Algoso, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Castelo_de_Algoso_12.jpg/1280px-Castelo_de_Algoso_12.jpg",
+    "imageFile": "Castelo_de_Algoso_12.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Algoso",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Algoso_12.jpg"
+  },
+  {
+    "id": "castle-178783",
+    "name": "Castelo de Aljezur",
+    "articleTitle": "Castelo de Aljezur",
+    "description": "castelo medieval em Aljezur, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Vista_aerea_do_Castelo_de_Aljezur_5_-_02.09.2023.jpg/1280px-Vista_aerea_do_Castelo_de_Aljezur_5_-_02.09.2023.jpg",
+    "imageFile": "Vista_aerea_do_Castelo_de_Aljezur_5_-_02.09.2023.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Aljezur",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Vista_aerea_do_Castelo_de_Aljezur_5_-_02.09.2023.jpg"
+  },
+  {
+    "id": "castle-174840",
+    "name": "Castelo de Aljustrel",
+    "articleTitle": "Castelo de Aljustrel",
+    "description": "antigo castelo em Aljustrel de que restam vestígios na Igreja de Nossa Senhora do Castelo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Aljustrel.jpg",
+    "imageFile": "Aljustrel.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Aljustrel",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Aljustrel.jpg"
+  },
+  {
+    "id": "castle-106216",
+    "name": "Castelo de Almada",
+    "articleTitle": "Castelo de Almada",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Castelo_de_Almada.JPG/1280px-Castelo_de_Almada.JPG",
+    "imageFile": "Castelo_de_Almada.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Almada",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Almada.JPG"
+  },
+  {
+    "id": "castle-186406",
+    "name": "Castelo de Almeida",
+    "articleTitle": "Castelo de Almeida",
+    "description": "castelo medieval em Almeida",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Livro_das_Fortalezas_73-_Almeida.jpg/1280px-Livro_das_Fortalezas_73-_Almeida.jpg",
+    "imageFile": "Livro_das_Fortalezas_73-_Almeida.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Almeida",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Livro_das_Fortalezas_73-_Almeida.jpg"
+  },
+  {
+    "id": "castle-59281",
+    "name": "Castelo de Almourol",
+    "articleTitle": "Castelo de Almourol",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Almourol_034.jpg/1280px-Almourol_034.jpg",
+    "imageFile": "Almourol_034.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Almourol",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Almourol_034.jpg"
+  },
+  {
+    "id": "castle-227591",
+    "name": "Castelo de Alpalhão",
+    "articleTitle": "Castelo de Alpalhão",
+    "description": "castelo medieval em Alpalhão de que restam vestígios e algumas torres",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Castelo_alpalham_bras_pereira_1642.jpg",
+    "imageFile": "Castelo_alpalham_bras_pereira_1642.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Alpalh%C3%A3o",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_alpalham_bras_pereira_1642.jpg"
+  },
+  {
+    "id": "castle-175443",
+    "name": "Castelo de Alter do Chão",
+    "articleTitle": "Castelo de Alter do Chão",
+    "description": "castelo medieval em Alter do Chão",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/AlterChao-Castle-CCBY.jpg",
+    "imageFile": "AlterChao-Castle-CCBY.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Alter_do_Ch%C3%A3o",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:AlterChao-Castle-CCBY.jpg"
+  },
+  {
+    "id": "castle-175459",
+    "name": "Castelo de Alter Pedroso",
+    "articleTitle": "Castelo de Alter Pedroso",
+    "description": "castelo medieval em Alter Pedroso, no município de Alter do Chão",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Castelo_de_Alter_Pedroso_I.JPG",
+    "imageFile": "Castelo_de_Alter_Pedroso_I.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Alter_Pedroso",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Alter_Pedroso_I.JPG"
+  },
+  {
+    "id": "castle-176006",
+    "name": "Castelo de Alvito",
+    "articleTitle": "Castelo de Alvito",
+    "description": "castelo medieval em Alvito",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Castelo_de_Alvito3.jpg",
+    "imageFile": "Castelo_de_Alvito3.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Alvito",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Alvito3.jpg"
+  },
+  {
+    "id": "castle-176711",
+    "name": "Castelo de Alvor",
+    "articleTitle": "Castelo de Alvor",
+    "description": "castelo medieval em Alvor, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Castelo_de_Alvor.JPG/1280px-Castelo_de_Alvor.JPG",
+    "imageFile": "Castelo_de_Alvor.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Alvor",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Alvor.JPG"
+  },
+  {
+    "id": "castle-118489",
+    "name": "Castelo de Amieira",
+    "articleTitle": "Castelo de Amieira",
+    "description": "castelo medieval em Amieira do Tejo, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Castelo_de_Amieira_do_Tejo_-_Portugal_%287205725220%29.jpg/1280px-Castelo_de_Amieira_do_Tejo_-_Portugal_%287205725220%29.jpg",
+    "imageFile": "Castelo_de_Amieira_do_Tejo_-_Portugal_(7205725220).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Amieira",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Amieira_do_Tejo_-_Portugal_%287205725220%29.jpg"
+  },
+  {
+    "id": "castle-106082",
+    "name": "Castelo de Ansiães",
+    "articleTitle": "Castelo de Ansiães",
+    "description": "Monumento Nacional em Carrazeda de Ansiães, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Castelo_de_ansi%C3%A3es_%288337838751%29.jpg/1280px-Castelo_de_ansi%C3%A3es_%288337838751%29.jpg",
+    "imageFile": "Castelo_de_ansiães_(8337838751).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Ansi%C3%A3es",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_ansi%C3%A3es_%288337838751%29.jpg"
+  },
+  {
+    "id": "castle-180302",
+    "name": "Castelo de Arnoia",
+    "articleTitle": "Castelo de Arnoia",
+    "description": "castelo medieval em Arnoia, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Castelo_de_Arnoia_%287%29.jpg/1280px-Castelo_de_Arnoia_%287%29.jpg",
+    "imageFile": "Castelo_de_Arnoia_(7).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Arnoia",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Arnoia_%287%29.jpg"
+  },
+  {
+    "id": "castle-74927",
+    "name": "Castelo de Arraiolos",
+    "articleTitle": "Castelo de Arraiolos",
+    "description": "castelo medieval em Arraiolos",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Arraiolos1.jpg/1280px-Arraiolos1.jpg",
+    "imageFile": "Arraiolos1.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Arraiolos",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Arraiolos1.jpg"
+  },
+  {
+    "id": "castle-178039",
+    "name": "Castelo de Arronches",
+    "articleTitle": "Castelo de Arronches",
+    "description": "fortaleza em Arronches",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Arronches_-_Portugal_%289824720703%29.jpg/1280px-Arronches_-_Portugal_%289824720703%29.jpg",
+    "imageFile": "Arronches_-_Portugal_(9824720703).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Arronches",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Arronches_-_Portugal_%289824720703%29.jpg"
+  },
+  {
+    "id": "castle-178317",
+    "name": "Castelo de Atouguia da Baleia",
+    "articleTitle": "Castelo de Atouguia da Baleia",
+    "description": "castelo em Atouguia da Baleia de que restam as muralhas e uma torre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Torre_e_muralha_do_antigo_Castelo_de_Atouguia_da_Baleia.jpg/1280px-Torre_e_muralha_do_antigo_Castelo_de_Atouguia_da_Baleia.jpg",
+    "imageFile": "Torre_e_muralha_do_antigo_Castelo_de_Atouguia_da_Baleia.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Atouguia_da_Baleia",
+    "imageInfoUrl": "https://…18819 tokens truncated…
+  {
+    "id": "castle-123941",
+    "name": "Castelo de Vila Nova de Cerveira",
+    "articleTitle": "Castelo de Vila Nova de Cerveira",
+    "description": "castelo medieval em Vila Nova de Cerveira",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerial_photograph_of_Vila_Nova_de_Cerveira_%283%29.jpg/1280px-Aerial_photograph_of_Vila_Nova_de_Cerveira_%283%29.jpg",
+    "imageFile": "Aerial_photograph_of_Vila_Nova_de_Cerveira_(3).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Vila_Nova_de_Cerveira",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Vila_Nova_de_Cerveira_%283%29.jpg"
+  },
+  {
+    "id": "castle-418378",
+    "name": "Castelo de Vila Verde dos Francos",
+    "articleTitle": "Castelo de Vila Verde dos Francos",
+    "description": "castelo em Alenquer, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ru%C3%ADnas_do_Castelo_de_Vila_Verde_dos_Francos_-_Portugal_%2851094767555%29.jpg/1280px-Ru%C3%ADnas_do_Castelo_de_Vila_Verde_dos_Francos_-_Portugal_%2851094767555%29.jpg",
+    "imageFile": "Ruínas_do_Castelo_de_Vila_Verde_dos_Francos_-_Portugal_(51094767555).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Vila_Verde_dos_Francos",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Ru%C3%ADnas_do_Castelo_de_Vila_Verde_dos_Francos_-_Portugal_%2851094767555%29.jpg"
+  },
+  {
+    "id": "castle-194084",
+    "name": "Castelo de Vila Viçosa",
+    "articleTitle": "Castelo de Vila Viçosa",
+    "description": "castelo medieval em Vila Viçosa, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Vila_Vicosa_Castle.JPG/1280px-Vila_Vicosa_Castle.JPG",
+    "imageFile": "Vila_Vicosa_Castle.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Vila_Vi%C3%A7osa",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Vila_Vicosa_Castle.JPG"
+  },
+  {
+    "id": "castle-420835",
+    "name": "Castelo de Vilar Maior",
+    "articleTitle": "Castelo de Vilar Maior",
+    "description": "castelo medieval em Vilar Maior, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Castelo_de_Vilar_Maior_%2821355268838%29.jpg/1280px-Castelo_de_Vilar_Maior_%2821355268838%29.jpg",
+    "imageFile": "Castelo_de_Vilar_Maior_(21355268838).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Vilar_Maior",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Vilar_Maior_%2821355268838%29.jpg"
+  },
+  {
+    "id": "castle-425629",
+    "name": "Castelo de Vinhais",
+    "articleTitle": "Castelo de Vinhais",
+    "description": "castelo medieval em Vinhais",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tr%C3%A1s-os-Montes_DSC_1087_%284496640812%29.jpg/1280px-Tr%C3%A1s-os-Montes_DSC_1087_%284496640812%29.jpg",
+    "imageFile": "Trás-os-Montes_DSC_1087_(4496640812).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Vinhais",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Tr%C3%A1s-os-Montes_DSC_1087_%284496640812%29.jpg"
+  },
+  {
+    "id": "castle-171693",
+    "name": "Castelo do Alandroal",
+    "articleTitle": "Castelo do Alandroal",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Castelo_e_igreja_matriz_do_Alandroal_%28Portugal%29.jpg",
+    "imageFile": "Castelo_e_igreja_matriz_do_Alandroal_(Portugal).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_do_Alandroal",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_e_igreja_matriz_do_Alandroal_%28Portugal%29.jpg"
+  },
+  {
+    "id": "castle-6242796",
+    "name": "Castelo do Bom Jesus",
+    "articleTitle": "Castelo do Bom Jesus",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hotel_Castelo_do_Bom_Jesus_-_Portugal_%283182918996%29.jpg/1280px-Hotel_Castelo_do_Bom_Jesus_-_Portugal_%283182918996%29.jpg",
+    "imageFile": "Hotel_Castelo_do_Bom_Jesus_-_Portugal_(3182918996).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_do_Bom_Jesus",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Hotel_Castelo_do_Bom_Jesus_-_Portugal_%283182918996%29.jpg"
+  },
+  {
+    "id": "castle-21246",
+    "name": "Castelo do Neiva",
+    "articleTitle": "Castelo do Neiva",
+    "description": "freguesia do Município de Viana do Castelo, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Casa_e_Quinta_de_Monteverde_-_Castelo_do_Neiva%2C_Viana_do_Castelo_-_13.jpg/1280px-Casa_e_Quinta_de_Monteverde_-_Castelo_do_Neiva%2C_Viana_do_Castelo_-_13.jpg",
+    "imageFile": "Casa_e_Quinta_de_Monteverde_-_Castelo_do_Neiva,_Viana_do_Castelo_-_13.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_do_Neiva",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Casa_e_Quinta_de_Monteverde_-_Castelo_do_Neiva%2C_Viana_do_Castelo_-_13.jpg"
+  },
+  {
+    "id": "castle-105182",
+    "name": "Castelo do Sabugal",
+    "articleTitle": "Castelo do Sabugal",
+    "description": "castelo medieval no Sabugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Nt-castelo-sabugal-4.jpg/1280px-Nt-castelo-sabugal-4.jpg",
+    "imageFile": "Nt-castelo-sabugal-4.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_do_Sabugal",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Nt-castelo-sabugal-4.jpg"
+  },
+  {
+    "id": "castle-1272599",
+    "name": "Castelo dos Moinhos",
+    "articleTitle": "Castelo dos Moinhos",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Angra_Heroismo_centro_hist.jpg/1280px-Angra_Heroismo_centro_hist.jpg",
+    "imageFile": "Angra_Heroismo_centro_hist.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_dos_Moinhos",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Angra_Heroismo_centro_hist.jpg"
+  },
+  {
+    "id": "castle-49129",
+    "name": "Castelo dos Mouros",
+    "articleTitle": "Castelo dos Mouros (Sintra)",
+    "description": "castelo em Sintra, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Castelo_dos_Mouros%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_79.jpg/1280px-Castelo_dos_Mouros%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_79.jpg",
+    "imageFile": "Castelo_dos_Mouros,_Sintra,_Portugal,_2019-05-25,_DD_79.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_dos_Mouros_%28Sintra%29",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_dos_Mouros%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_79.jpg"
+  },
+  {
+    "id": "castle-106208",
+    "name": "Fortaleza de Juromenha",
+    "articleTitle": "Fortaleza de Juromenha",
+    "description": "fortaleza em Juromenha, Alandroal, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Fortaleza_Jeromenha_-_entrada.jpg",
+    "imageFile": "Fortaleza_Jeromenha_-_entrada.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Fortaleza_de_Juromenha",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Fortaleza_Jeromenha_-_entrada.jpg"
+  },
+  {
+    "id": "castle-61244",
+    "name": "Fortaleza de Sagres",
+    "articleTitle": "Fortaleza de Sagres",
+    "description": "forte em Sagres, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Fortaleza_de_Sagres_2_-_11.04.2023.jpg/1280px-Fortaleza_de_Sagres_2_-_11.04.2023.jpg",
+    "imageFile": "Fortaleza_de_Sagres_2_-_11.04.2023.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Fortaleza_de_Sagres",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Fortaleza_de_Sagres_2_-_11.04.2023.jpg"
+  },
+  {
+    "id": "castle-524857",
+    "name": "Fortaleza de São João Baptista da Ilha Terceira",
+    "articleTitle": "Fortaleza de São João Baptista da Ilha Terceira",
+    "description": "fortaleza no Monte Brasil, em Angra do Heroísmo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Fortaleza_de_S%C3%A3o_Jo%C3%A3o_Baptista%2C_Monte_Brasil%2C_ilha_Terceira%2C_A%C3%A7ores%2C_Porta_de_Armas.jpg",
+    "imageFile": "Fortaleza_de_São_João_Baptista,_Monte_Brasil,_ilha_Terceira,_Açores,_Porta_de_Armas.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Fortaleza_de_S%C3%A3o_Jo%C3%A3o_Baptista_da_Ilha_Terceira",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Fortaleza_de_S%C3%A3o_Jo%C3%A3o_Baptista%2C_Monte_Brasil%2C_ilha_Terceira%2C_A%C3%A7ores%2C_Porta_de_Armas.jpg"
+  },
+  {
+    "id": "castle-261350",
+    "name": "Fortaleza do Outeiro",
+    "articleTitle": "Fortaleza do Outeiro",
+    "description": "castelo de construção medieval, atualmente em ruínas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fortaleza_de_Outeiro_16.jpg/1280px-Fortaleza_de_Outeiro_16.jpg",
+    "imageFile": "Fortaleza_de_Outeiro_16.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Fortaleza_do_Outeiro",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Fortaleza_de_Outeiro_16.jpg"
+  },
+  {
+    "id": "castle-177982",
+    "name": "Forte da Barra de Aveiro",
+    "articleTitle": "Forte da Barra de Aveiro",
+    "description": "forte na Gafanha da Nazaré, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Forte_da_Barra.JPG/1280px-Forte_da_Barra.JPG",
+    "imageFile": "Forte_da_Barra.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Forte_da_Barra_de_Aveiro",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Forte_da_Barra.JPG"
+  },
+  {
+    "id": "castle-2740192",
+    "name": "Forte de Nossa Senhora da Rocha",
+    "articleTitle": "Forte de Nossa Senhora da Rocha",
+    "description": "fortaleza em Porches, município de Lagoa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Forte_de_Nossa_Senhora_da_Rocha_05.jpg/1280px-Forte_de_Nossa_Senhora_da_Rocha_05.jpg",
+    "imageFile": "Forte_de_Nossa_Senhora_da_Rocha_05.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Forte_de_Nossa_Senhora_da_Rocha",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Forte_de_Nossa_Senhora_da_Rocha_05.jpg"
+  },
+  {
+    "id": "castle-118896",
+    "name": "Forte de Nossa Senhora das Neves",
+    "articleTitle": "Forte de Nossa Senhora das Neves",
+    "description": "forte em Leça da Palmeira, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Forte_Leca_Palmeira_%28Matosinhos%29.jpg",
+    "imageFile": "Forte_Leca_Palmeira_(Matosinhos).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Forte_de_Nossa_Senhora_das_Neves",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Forte_Leca_Palmeira_%28Matosinhos%29.jpg"
+  },
+  {
+    "id": "castle-2509699",
+    "name": "Forte de Santa Catarina",
+    "articleTitle": "Forte de Santa Catarina (Lajes do Pico)",
+    "description": "forte em Lajes do Pico, Açores, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fte_sta_catarina_5.JPG/1280px-Fte_sta_catarina_5.JPG",
+    "imageFile": "Fte_sta_catarina_5.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Forte_de_Santa_Catarina_%28Lajes_do_Pico%29",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Fte_sta_catarina_5.JPG"
+  },
+  {
+    "id": "castle-1504110",
+    "name": "Forte de Santa Cruz da Horta",
+    "articleTitle": "Forte de Santa Cruz da Horta",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Fuerte_de_Santa_Cruz%2C_Horta%2C_isla_de_Fayal%2C_Azores%2C_Portugal%2C_2020-07-27%2C_DD_01.jpg/1280px-Fuerte_de_Santa_Cruz%2C_Horta%2C_isla_de_Fayal%2C_Azores%2C_Portugal%2C_2020-07-27%2C_DD_01.jpg",
+    "imageFile": "Fuerte_de_Santa_Cruz,_Horta,_isla_de_Fayal,_Azores,_Portugal,_2020-07-27,_DD_01.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Forte_de_Santa_Cruz_da_Horta",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Fuerte_de_Santa_Cruz%2C_Horta%2C_isla_de_Fayal%2C_Azores%2C_Portugal%2C_2020-07-27%2C_DD_01.jpg"
+  },
+  {
+    "id": "castle-119030",
+    "name": "Forte de Santiago da Barra",
+    "articleTitle": "Forte de Santiago da Barra",
+    "description": "forte em Monserrate, no município de Viana do Castelo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Torre_da_Roqueta.JPG/1280px-Torre_da_Roqueta.JPG",
+    "imageFile": "Torre_da_Roqueta.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Forte_de_Santiago_da_Barra",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Torre_da_Roqueta.JPG"
+  },
+  {
+    "id": "castle-1375854",
+    "name": "Forte de São Brás de Ponta Delgada",
+    "articleTitle": "Forte de São Brás de Ponta Delgada",
+    "description": "forte em Ponta Delgada, Açores",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ilha_de_S%C3%A3o_Miguel_DSC00661_%2836811907372%29.jpg/1280px-Ilha_de_S%C3%A3o_Miguel_DSC00661_%2836811907372%29.jpg",
+    "imageFile": "Ilha_de_São_Miguel_DSC00661_(36811907372).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Forte_de_S%C3%A3o_Br%C3%A1s_de_Ponta_Delgada",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Ilha_de_S%C3%A3o_Miguel_DSC00661_%2836811907372%29.jpg"
+  },
+  {
+    "id": "castle-505323",
+    "name": "Forte de São Clemente",
+    "articleTitle": "Forte de São Clemente",
+    "description": "Forte em Vila Nova de Milfontes",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Forte_de_Milfontes_1.jpg/1280px-Forte_de_Milfontes_1.jpg",
+    "imageFile": "Forte_de_Milfontes_1.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Forte_de_S%C3%A3o_Clemente",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Forte_de_Milfontes_1.jpg"
+  },
+  {
+    "id": "castle-102364",
+    "name": "Forte de São Filipe",
+    "articleTitle": "Forte de São Filipe (Setúbal)",
+    "description": "Monumento Nacional em Setúbal, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fuerte_de_San_Felipe%2C_Set%C3%BAbal%2C_Portugal%2C_2012-08-17%2C_DD_01.JPG/1280px-Fuerte_de_San_Felipe%2C_Set%C3%BAbal%2C_Portugal%2C_2012-08-17%2C_DD_01.JPG",
+    "imageFile": "Fuerte_de_San_Felipe,_Setúbal,_Portugal,_2012-08-17,_DD_01.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Forte_de_S%C3%A3o_Filipe_%28Set%C3%BAbal%29",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Fuerte_de_San_Felipe%2C_Set%C3%BAbal%2C_Portugal%2C_2012-08-17%2C_DD_01.JPG"
+  },
+  {
+    "id": "castle-116345",
+    "name": "Forte de São Francisco Xavier do Queijo",
+    "articleTitle": "Forte de São Francisco Xavier do Queijo",
+    "description": "forte no Porto, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aerial_photograph_of_Castelo_do_Queijo_%284%29.jpg/1280px-Aerial_photograph_of_Castelo_do_Queijo_%284%29.jpg",
+    "imageFile": "Aerial_photograph_of_Castelo_do_Queijo_(4).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Forte_de_S%C3%A3o_Francisco_Xavier_do_Queijo",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Castelo_do_Queijo_%284%29.jpg"
+  },
+  {
+    "id": "castle-115494",
+    "name": "Forte de São João Baptista da Foz",
+    "articleTitle": "Forte de São João Baptista da Foz",
+    "description": "forte na foz do rio Douro",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Castelo_S_Joao_da_Foz_by_Henrique_Matos_02.jpg",
+    "imageFile": "Castelo_S_Joao_da_Foz_by_Henrique_Matos_02.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Forte_de_S%C3%A3o_Jo%C3%A3o_Baptista_da_Foz",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_S_Joao_da_Foz_by_Henrique_Matos_02.jpg"
+  },
+  {
+    "id": "castle-331253",
+    "name": "Forte de São João Baptista de Esposende",
+    "articleTitle": "Forte de São João Baptista de Esposende",
+    "description": "forte em Esposende",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aerial_photograph_of_Esposende_2019_%282%29.jpg/1280px-Aerial_photograph_of_Esposende_2019_%282%29.jpg",
+    "imageFile": "Aerial_photograph_of_Esposende_2019_(2).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Forte_de_S%C3%A3o_Jo%C3%A3o_Baptista_de_Esposende",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Esposende_2019_%282%29.jpg"
+  },
+  {
+    "id": "castle-1388932",
+    "name": "Forte do Porto Formoso",
+    "articleTitle": "Forte do Porto Formoso",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Porto_Formoso%2C_Ribeira_Grande%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/1280px-Porto_Formoso%2C_Ribeira_Grande%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG",
+    "imageFile": "Porto_Formoso,_Ribeira_Grande,_ilha_de_São_Miguel,_Açores.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Forte_do_Porto_Formoso",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Porto_Formoso%2C_Ribeira_Grande%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG"
+  },
+  {
+    "id": "castle-182216",
+    "name": "Muralha de Barcelos",
+    "articleTitle": "Muralha de Barcelos",
+    "description": "Torre de castelo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Barcelos_Torre_da_Porta_Nova1362.JPG/1280px-Barcelos_Torre_da_Porta_Nova1362.JPG",
+    "imageFile": "Barcelos_Torre_da_Porta_Nova1362.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Muralha_de_Barcelos",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Barcelos_Torre_da_Porta_Nova1362.JPG"
+  },
+  {
+    "id": "castle-198145",
+    "name": "Ribat de Arrifana",
+    "articleTitle": "Ribat de Arrifana",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vista_Aerea_do_Ribat_da_Arrifana_-_02.09.2023.jpg/1280px-Vista_Aerea_do_Ribat_da_Arrifana_-_02.09.2023.jpg",
+    "imageFile": "Vista_Aerea_do_Ribat_da_Arrifana_-_02.09.2023.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Ribat_de_Arrifana",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Vista_Aerea_do_Ribat_da_Arrifana_-_02.09.2023.jpg"
+  },
+  {
+    "id": "castle-329146",
+    "name": "Torre de Redondos",
+    "articleTitle": "Torre de Redondos",
+    "description": "Torre que integrou o Castelo de Redondos",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TorresBuarcos1.JPG/1280px-TorresBuarcos1.JPG",
+    "imageFile": "TorresBuarcos1.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Torre_de_Redondos",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:TorresBuarcos1.JPG"
+  },
+  {
+    "id": "castle-127202",
+    "name": "Torre de Vilharigues",
+    "articleTitle": "Torre de Vilharigues",
+    "description": "castelo em Vouzela, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Torre_de_Vilharigues_01.JPG/1280px-Torre_de_Vilharigues_01.JPG",
+    "imageFile": "Torre_de_Vilharigues_01.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Torre_de_Vilharigues",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Torre_de_Vilharigues_01.JPG"
+  },
+  {
+    "id": "castle-1165475",
+    "name": "Torre do Relógio",
+    "articleTitle": "Torre do Relógio (Mêda)",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Torre_do_Rel%C3%B3gio_Meda.jpg",
+    "imageFile": "Torre_do_Relógio_Meda.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Torre_do_Rel%C3%B3gio_%28M%C3%AAda%29",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Torre_do_Rel%C3%B3gio_Meda.jpg"
+  }
+]
+
