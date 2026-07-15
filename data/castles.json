@@ -367,7 +367,1368 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Torre_e_muralha_do_antigo_Castelo_de_Atouguia_da_Baleia.jpg/1280px-Torre_e_muralha_do_antigo_Castelo_de_Atouguia_da_Baleia.jpg",
     "imageFile": "Torre_e_muralha_do_antigo_Castelo_de_Atouguia_da_Baleia.jpg",
     "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Atouguia_da_Baleia",
-    "imageInfoUrl": "https://…18819 tokens truncated…
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Torre_e_muralha_do_antigo_Castelo_de_Atouguia_da_Baleia.jpg"
+  },
+  {
+    "id": "castle-178355",
+    "name": "Castelo de Avis",
+    "articleTitle": "Castelo de Avis",
+    "description": "castelo medieval em Avis de que restam vestígios",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Avis_-_Portugal_%28325209687%29.jpg",
+    "imageFile": "Avis_-_Portugal_(325209687).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Avis",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Avis_-_Portugal_%28325209687%29.jpg"
+  },
+  {
+    "id": "castle-180557",
+    "name": "Castelo de Avô",
+    "articleTitle": "Castelo de Avô",
+    "description": "castelo em Oliveira do Hospital, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Castelo_de_Av%C3%B4_-_Portugal_%2812310722974%29.jpg/1280px-Castelo_de_Av%C3%B4_-_Portugal_%2812310722974%29.jpg",
+    "imageFile": "Castelo_de_Avô_-_Portugal_(12310722974).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Av%C3%B4",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Av%C3%B4_-_Portugal_%2812310722974%29.jpg"
+  },
+  {
+    "id": "castle-118493",
+    "name": "Castelo de Barbacena",
+    "articleTitle": "Castelo de Barbacena",
+    "description": "castelo em Barbacena, no Município de Elvas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Castelo_de_Barbacena_%28muralha%29.jpg",
+    "imageFile": "Castelo_de_Barbacena_(muralha).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Barbacena",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Barbacena_%28muralha%29.jpg"
+  },
+  {
+    "id": "castle-103734",
+    "name": "Castelo de Beja",
+    "articleTitle": "Castelo de Beja",
+    "description": "castelo medieval em Beja, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Torre_castelo_beja.jpg",
+    "imageFile": "Torre_castelo_beja.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Beja",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Torre_castelo_beja.jpg"
+  },
+  {
+    "id": "castle-158881",
+    "name": "Castelo de Belmonte",
+    "articleTitle": "Castelo de Belmonte",
+    "description": "castelo medieval em Belmonte, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nt-castelo-belmonte0.jpg/1280px-Nt-castelo-belmonte0.jpg",
+    "imageFile": "Nt-castelo-belmonte0.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Belmonte",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Nt-castelo-belmonte0.jpg"
+  },
+  {
+    "id": "castle-56440",
+    "name": "Castelo de Belver",
+    "articleTitle": "Castelo de Belver",
+    "description": "castelo medieval em Belver, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Castelo_de_Belver.JPG/1280px-Castelo_de_Belver.JPG",
+    "imageFile": "Castelo_de_Belver.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Belver",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Belver.JPG"
+  },
+  {
+    "id": "castle-182463",
+    "name": "Castelo de Borba",
+    "articleTitle": "Castelo de Borba",
+    "description": "castelo medieval em Borba, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Muralhas_de_Borba_-_Portugal_%286845090166%29.jpg/1280px-Muralhas_de_Borba_-_Portugal_%286845090166%29.jpg",
+    "imageFile": "Muralhas_de_Borba_-_Portugal_(6845090166).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Borba",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Muralhas_de_Borba_-_Portugal_%286845090166%29.jpg"
+  },
+  {
+    "id": "castle-183533",
+    "name": "Castelo de Braga",
+    "articleTitle": "Castelo de Braga",
+    "description": "Castelo e cerca amuralhada da cidade de Braga",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Castelo_22.jpg",
+    "imageFile": "Castelo_22.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Braga",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_22.jpg"
+  },
+  {
+    "id": "castle-184619",
+    "name": "Castelo de Bragança",
+    "articleTitle": "Castelo de Bragança",
+    "description": "castelo medieval em Bragança",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Castelo_de_Bragan%C3%A7a.jpg/1280px-Castelo_de_Bragan%C3%A7a.jpg",
+    "imageFile": "Castelo_de_Bragança.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Bragan%C3%A7a",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Bragan%C3%A7a.jpg"
+  },
+  {
+    "id": "castle-185229",
+    "name": "Castelo de Cabeço de Vide",
+    "articleTitle": "Castelo de Cabeço de Vide",
+    "description": "castelo medieval em Cabeço de Vide, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Castelo_de_Cabe%C3%A7o_de_Vide_-_Portugal.jpg",
+    "imageFile": "Castelo_de_Cabeço_de_Vide_-_Portugal.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Cabe%C3%A7o_de_Vide",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Cabe%C3%A7o_de_Vide_-_Portugal.jpg"
+  },
+  {
+    "id": "castle-106275",
+    "name": "Castelo de Cacela",
+    "articleTitle": "Castelo de Cacela",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/CacelaCercaMoura.JPG/1280px-CacelaCercaMoura.JPG",
+    "imageFile": "CacelaCercaMoura.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Cacela",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:CacelaCercaMoura.JPG"
+  },
+  {
+    "id": "castle-119173",
+    "name": "Castelo de Caminha",
+    "articleTitle": "Castelo de Caminha",
+    "description": "fortaleza em Caminha, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Centro_hist%C3%B3rico_de_Caminha_34.jpg/1280px-Centro_hist%C3%B3rico_de_Caminha_34.jpg",
+    "imageFile": "Centro_histórico_de_Caminha_34.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Caminha",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Centro_hist%C3%B3rico_de_Caminha_34.jpg"
+  },
+  {
+    "id": "castle-118893",
+    "name": "Castelo de Campo Maior",
+    "articleTitle": "Castelo de Campo Maior",
+    "description": "castelo medieval em Campo Maior",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Vista_para_o_castelo.jpg",
+    "imageFile": "Vista_para_o_castelo.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Campo_Maior",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Vista_para_o_castelo.jpg"
+  },
+  {
+    "id": "castle-4845607",
+    "name": "Castelo de Cascais",
+    "articleTitle": "Castelo de Cascais",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Portas_do_Castelo%2C_Cascais._05-18_%2801%29.jpg/1280px-Portas_do_Castelo%2C_Cascais._05-18_%2801%29.jpg",
+    "imageFile": "Portas_do_Castelo,_Cascais._05-18_(01).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Cascais",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Portas_do_Castelo%2C_Cascais._05-18_%2801%29.jpg"
+  },
+  {
+    "id": "castle-185627",
+    "name": "Castelo de Castelo Bom",
+    "articleTitle": "Castelo de Castelo Bom",
+    "description": "castelo medieval em Castelo Bom, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Porta_da_Vila_%28Castelo_Bom%29.jpg/1280px-Porta_da_Vila_%28Castelo_Bom%29.jpg",
+    "imageFile": "Porta_da_Vila_(Castelo_Bom).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Castelo_Bom",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Porta_da_Vila_%28Castelo_Bom%29.jpg"
+  },
+  {
+    "id": "castle-112576",
+    "name": "Castelo de Castelo Branco",
+    "articleTitle": "Castelo de Castelo Branco",
+    "description": "castelo medieval em Castelo Branco, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Pt-cb-castelo-miradouro.jpg/1280px-Pt-cb-castelo-miradouro.jpg",
+    "imageFile": "Pt-cb-castelo-miradouro.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Castelo_Branco",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Pt-cb-castelo-miradouro.jpg"
+  },
+  {
+    "id": "castle-186460",
+    "name": "Castelo de Castelo de Vide",
+    "articleTitle": "Castelo de Castelo de Vide",
+    "description": "castelo medieval em Castelo de Vide",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Castelo_de_Vide_-_Castelo1.jpg/1280px-Castelo_de_Vide_-_Castelo1.jpg",
+    "imageFile": "Castelo_de_Vide_-_Castelo1.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Castelo_de_Vide",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_-_Castelo1.jpg"
+  },
+  {
+    "id": "castle-186954",
+    "name": "Castelo de Castelo Melhor",
+    "articleTitle": "Castelo de Castelo Melhor",
+    "description": "castelo medieval em Castelo Melhor, município de Vila Nova de Foz Coa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Castelo_Melhor_03_by-dpc.jpg/1280px-Castelo_Melhor_03_by-dpc.jpg",
+    "imageFile": "Castelo_Melhor_03_by-dpc.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Castelo_Melhor",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_Melhor_03_by-dpc.jpg"
+  },
+  {
+    "id": "castle-186969",
+    "name": "Castelo de Castelo Mendo",
+    "articleTitle": "Castelo de Castelo Mendo",
+    "description": "castelo medieval em Castelo Mendo, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Le_village_fortifi%C3%A9_de_Castelo_Mendo.JPG",
+    "imageFile": "Le_village_fortifié_de_Castelo_Mendo.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Castelo_Mendo",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Le_village_fortifi%C3%A9_de_Castelo_Mendo.JPG"
+  },
+  {
+    "id": "castle-188042",
+    "name": "Castelo de Castelo Novo",
+    "articleTitle": "Castelo de Castelo Novo",
+    "description": "castelo medieval de Castelo Novo, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Castelo_de_Castelo_Novo.jpg",
+    "imageFile": "Castelo_de_Castelo_Novo.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Castelo_Novo",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Castelo_Novo.jpg"
+  },
+  {
+    "id": "castle-189528",
+    "name": "Castelo de Castelo Rodrigo",
+    "articleTitle": "Castelo de Castelo Rodrigo",
+    "description": "castelo medieval em Castelo Rodrigo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Castelo_de_Castelo_Rodrigo.jpg",
+    "imageFile": "Castelo_de_Castelo_Rodrigo.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Castelo_Rodrigo",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Castelo_Rodrigo.jpg"
+  },
+  {
+    "id": "castle-193506",
+    "name": "Castelo de Castro Laboreiro",
+    "articleTitle": "Castelo de Castro Laboreiro",
+    "description": "castelo medieval em Castro Laboreiro, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Castelo_Castro_Laboreiro.JPG/1280px-Castelo_Castro_Laboreiro.JPG",
+    "imageFile": "Castelo_Castro_Laboreiro.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Castro_Laboreiro",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_Castro_Laboreiro.JPG"
+  },
+  {
+    "id": "castle-123131",
+    "name": "Castelo de Castro Marim",
+    "articleTitle": "Castelo de Castro Marim",
+    "description": "castelo em Castro Marim",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Castelo_de_Castro_Marim_desde_o_Forte_de_S%C3%A3o_Sebasti%C3%A3o_%282%29.jpg/1280px-Castelo_de_Castro_Marim_desde_o_Forte_de_S%C3%A3o_Sebasti%C3%A3o_%282%29.jpg",
+    "imageFile": "Castelo_de_Castro_Marim_desde_o_Forte_de_São_Sebastião_(2).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Castro_Marim",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Castro_Marim_desde_o_Forte_de_S%C3%A3o_Sebasti%C3%A3o_%282%29.jpg"
+  },
+  {
+    "id": "castle-197353",
+    "name": "Castelo de Celorico da Beira",
+    "articleTitle": "Castelo de Celorico da Beira",
+    "description": "castelo medieval em Celorico da Beira",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Castelo_de_Celorico_da_Beira_-_Torre%C3%A3o.jpg/1280px-Castelo_de_Celorico_da_Beira_-_Torre%C3%A3o.jpg",
+    "imageFile": "Castelo_de_Celorico_da_Beira_-_Torreão.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Celorico_da_Beira",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Celorico_da_Beira_-_Torre%C3%A3o.jpg"
+  },
+  {
+    "id": "castle-198107",
+    "name": "Castelo de Chaves",
+    "articleTitle": "Castelo de Chaves",
+    "description": "castelo medieval em Chaves",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Torre_de_Menagem_Chaves_03.JPG/1280px-Torre_de_Menagem_Chaves_03.JPG",
+    "imageFile": "Torre_de_Menagem_Chaves_03.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Chaves",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Torre_de_Menagem_Chaves_03.JPG"
+  },
+  {
+    "id": "castle-201745",
+    "name": "Castelo de Coimbra",
+    "articleTitle": "Castelo de Coimbra",
+    "description": "antigo castelo medieval de que restam apenas algumas estruturas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Illustris_civitatis_Comimbriae_in_Lusitania_1600_Georg_Braun.jpg/1280px-Illustris_civitatis_Comimbriae_in_Lusitania_1600_Georg_Braun.jpg",
+    "imageFile": "Illustris_civitatis_Comimbriae_in_Lusitania_1600_Georg_Braun.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Coimbra",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Illustris_civitatis_Comimbriae_in_Lusitania_1600_Georg_Braun.jpg"
+  },
+  {
+    "id": "castle-170798",
+    "name": "Castelo de Cola",
+    "articleTitle": "Castelo de Cola",
+    "description": "sítio arqueológico em Ourique",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Castelo_da_Cola.JPG",
+    "imageFile": "Castelo_da_Cola.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Cola",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_da_Cola.JPG"
+  },
+  {
+    "id": "castle-1033835",
+    "name": "Castelo de Curutelo",
+    "articleTitle": "Castelo de Curutelo",
+    "description": "palacete de feição acastelada em Ponte de Lima, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pa%C3%A7o_ou_Castelo_do_Corutelo_-_Freixo_-_Portugal_%2810968568434%29.jpg/1280px-Pa%C3%A7o_ou_Castelo_do_Corutelo_-_Freixo_-_Portugal_%2810968568434%29.jpg",
+    "imageFile": "Paço_ou_Castelo_do_Corutelo_-_Freixo_-_Portugal_(10968568434).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Curutelo",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Pa%C3%A7o_ou_Castelo_do_Corutelo_-_Freixo_-_Portugal_%2810968568434%29.jpg"
+  },
+  {
+    "id": "castle-206991",
+    "name": "Castelo de Elvas",
+    "articleTitle": "Castelo de Elvas",
+    "description": "castelo medieval em Elvas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Elvas_Castle%2C_Alentejo%2C_Portugal%2C_29_September_2005.jpg/1280px-Elvas_Castle%2C_Alentejo%2C_Portugal%2C_29_September_2005.jpg",
+    "imageFile": "Elvas_Castle,_Alentejo,_Portugal,_29_September_2005.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Elvas",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Elvas_Castle%2C_Alentejo%2C_Portugal%2C_29_September_2005.jpg"
+  },
+  {
+    "id": "castle-207123",
+    "name": "Castelo de Esporão",
+    "articleTitle": "Castelo de Esporão",
+    "description": "torre acastelada perto de Reguengos de Monsaraz",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/73376_-_Castelo_de_Espor%C3%A3o_ou_Torre_do_Espor%C3%A3o.jpg/1280px-73376_-_Castelo_de_Espor%C3%A3o_ou_Torre_do_Espor%C3%A3o.jpg",
+    "imageFile": "73376_-_Castelo_de_Esporão_ou_Torre_do_Esporão.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Espor%C3%A3o",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:73376_-_Castelo_de_Espor%C3%A3o_ou_Torre_do_Espor%C3%A3o.jpg"
+  },
+  {
+    "id": "castle-7307363",
+    "name": "Castelo de Estômbar",
+    "articleTitle": "Castelo de Estômbar",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Abenebaci.jpg/1280px-Abenebaci.jpg",
+    "imageFile": "Abenebaci.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Est%C3%B4mbar",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Abenebaci.jpg"
+  },
+  {
+    "id": "castle-103774",
+    "name": "Castelo de Estremoz",
+    "articleTitle": "Castelo de Estremoz",
+    "description": "castelo em Estremoz, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Estremoz-FlickrCCby-PhillipC.jpg/1280px-Estremoz-FlickrCCby-PhillipC.jpg",
+    "imageFile": "Estremoz-FlickrCCby-PhillipC.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Estremoz",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Estremoz-FlickrCCby-PhillipC.jpg"
+  },
+  {
+    "id": "castle-207774",
+    "name": "Castelo de Évora",
+    "articleTitle": "Castelo de Évora",
+    "description": "fortificação em Évora",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/EvoraWalls1.jpg/1280px-EvoraWalls1.jpg",
+    "imageFile": "EvoraWalls1.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_%C3%89vora",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:EvoraWalls1.jpg"
+  },
+  {
+    "id": "castle-207829",
+    "name": "Castelo de Évora Monte",
+    "articleTitle": "Castelo de Évora Monte",
+    "description": "castelo medieval em Évora Monte, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Castelo_Medieval_de_Evoramonte.jpg/1280px-Castelo_Medieval_de_Evoramonte.jpg",
+    "imageFile": "Castelo_Medieval_de_Evoramonte.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_%C3%89vora_Monte",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_Medieval_de_Evoramonte.jpg"
+  },
+  {
+    "id": "castle-210021",
+    "name": "Castelo de Faria",
+    "articleTitle": "Castelo de Faria",
+    "description": "castelo medieval em Gilmonde, em ruínas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Castelo_de_Faria1483.JPG/1280px-Castelo_de_Faria1483.JPG",
+    "imageFile": "Castelo_de_Faria1483.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Faria",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Faria1483.JPG"
+  },
+  {
+    "id": "castle-2066046",
+    "name": "Castelo de Faro",
+    "articleTitle": "Castelo de Faro",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/CasteloMuralhasFaro.JPG/1280px-CasteloMuralhasFaro.JPG",
+    "imageFile": "CasteloMuralhasFaro.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Faro",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:CasteloMuralhasFaro.JPG"
+  },
+  {
+    "id": "castle-210526",
+    "name": "Castelo de Ferreira de Aves",
+    "articleTitle": "Castelo de Ferreira de Aves",
+    "description": "castelo medieval em Ferreira de Aves, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Castelo_ou_Torre_de_Ferreira_de_Aves_-_Portugal_%2812174268024%29.jpg/1280px-Castelo_ou_Torre_de_Ferreira_de_Aves_-_Portugal_%2812174268024%29.jpg",
+    "imageFile": "Castelo_ou_Torre_de_Ferreira_de_Aves_-_Portugal_(12174268024).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Ferreira_de_Aves",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_ou_Torre_de_Ferreira_de_Aves_-_Portugal_%2812174268024%29.jpg"
+  },
+  {
+    "id": "castle-210836",
+    "name": "Castelo de Folgosinho",
+    "articleTitle": "Castelo de Folgosinho",
+    "description": "castelo medieval em Folgosinho, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Folgosinho1.jpg",
+    "imageFile": "Folgosinho1.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Folgosinho",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Folgosinho1.jpg"
+  },
+  {
+    "id": "castle-210566",
+    "name": "Castelo de Fontalva",
+    "articleTitle": "Castelo de Fontalva",
+    "description": "castelo medieval em Santa Eulália, município de Elvas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/CASTELO_DE_FONTALVA.jpg/1280px-CASTELO_DE_FONTALVA.jpg",
+    "imageFile": "CASTELO_DE_FONTALVA.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Fontalva",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:CASTELO_DE_FONTALVA.jpg"
+  },
+  {
+    "id": "castle-210576",
+    "name": "Castelo de Freixo de Espada à Cinta",
+    "articleTitle": "Castelo de Freixo de Espada à Cinta",
+    "description": "Monumento Nacional em Freixo de Espada à Cinta, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Freixo_Espada_a_Cinta_-_Torre_de_Menagem.jpg/1280px-Freixo_Espada_a_Cinta_-_Torre_de_Menagem.jpg",
+    "imageFile": "Freixo_Espada_a_Cinta_-_Torre_de_Menagem.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Freixo_de_Espada_%C3%A0_Cinta",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Freixo_Espada_a_Cinta_-_Torre_de_Menagem.jpg"
+  },
+  {
+    "id": "castle-229496",
+    "name": "Castelo de Germanelo",
+    "articleTitle": "Castelo de Germanelo",
+    "description": "castelo em Penela, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Castelo_de_Germanelo_-_vista_geral.JPG/1280px-Castelo_de_Germanelo_-_vista_geral.JPG",
+    "imageFile": "Castelo_de_Germanelo_-_vista_geral.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Germanelo",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Germanelo_-_vista_geral.JPG"
+  },
+  {
+    "id": "castle-2139510",
+    "name": "Castelo de Giraldo",
+    "articleTitle": "Castelo de Giraldo",
+    "description": "castro nos arredores de Évora",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/CastelodeGiraldo.jpg",
+    "imageFile": "CastelodeGiraldo.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Giraldo",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:CastelodeGiraldo.jpg"
+  },
+  {
+    "id": "castle-71058",
+    "name": "Castelo de Guimarães",
+    "articleTitle": "Castelo de Guimarães",
+    "description": "castelo medieval em Guimarães",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Castelo_de_Guimaraes_%289%29.jpg/1280px-Castelo_de_Guimaraes_%289%29.jpg",
+    "imageFile": "Castelo_de_Guimaraes_(9).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Guimar%C3%A3es",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Guimaraes_%289%29.jpg"
+  },
+  {
+    "id": "castle-211358",
+    "name": "Castelo de Idanha-a-Velha",
+    "articleTitle": "Castelo de Idanha-a-Velha",
+    "description": "muralhas medievais em Idanha-a-Velha, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/P8103386crw_%287906305776%29.jpg/1280px-P8103386crw_%287906305776%29.jpg",
+    "imageFile": "P8103386crw_(7906305776).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Idanha-a-Velha",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:P8103386crw_%287906305776%29.jpg"
+  },
+  {
+    "id": "castle-112467",
+    "name": "Castelo de Lagos",
+    "articleTitle": "Castelo de Lagos",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Muralha_de_Lagos.jpg/1280px-Muralha_de_Lagos.jpg",
+    "imageFile": "Muralha_de_Lagos.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Lagos",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Muralha_de_Lagos.jpg"
+  },
+  {
+    "id": "castle-213166",
+    "name": "Castelo de Lamego",
+    "articleTitle": "Castelo de Lamego",
+    "description": "castelo medieval em Lamego",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Castelo_e_Cisterna.jpg/1280px-Castelo_e_Cisterna.jpg",
+    "imageFile": "Castelo_e_Cisterna.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Lamego",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_e_Cisterna.jpg"
+  },
+  {
+    "id": "castle-106683",
+    "name": "Castelo de Lanhoso",
+    "articleTitle": "Castelo de Lanhoso",
+    "description": "castelo em Póvoa de Lanhoso, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aerial_photograph_of_Castelo_de_Lanhoso_%281%29.jpg/1280px-Aerial_photograph_of_Castelo_de_Lanhoso_%281%29.jpg",
+    "imageFile": "Aerial_photograph_of_Castelo_de_Lanhoso_(1).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Lanhoso",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Castelo_de_Lanhoso_%281%29.jpg"
+  },
+  {
+    "id": "castle-93270",
+    "name": "Castelo de Leiria",
+    "articleTitle": "Castelo de Leiria",
+    "description": "castelo medieval em Leiria",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/CASTELO_DE_LEIRIA.jpg",
+    "imageFile": "CASTELO_DE_LEIRIA.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Leiria",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:CASTELO_DE_LEIRIA.jpg"
+  },
+  {
+    "id": "castle-132159",
+    "name": "Castelo de Lindoso",
+    "articleTitle": "Castelo de Lindoso",
+    "description": "Castelo medieval em Lindoso, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Aerial_photograph_of_Castelo_de_Lindoso_%2817%29.jpg/1280px-Aerial_photograph_of_Castelo_de_Lindoso_%2817%29.jpg",
+    "imageFile": "Aerial_photograph_of_Castelo_de_Lindoso_(17).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Lindoso",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Castelo_de_Lindoso_%2817%29.jpg"
+  },
+  {
+    "id": "castle-217573",
+    "name": "Castelo de Linhares da Beira",
+    "articleTitle": "Castelo de Linhares da Beira",
+    "description": "Castelo medieval em Linhares da Beira",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/LinharesCastle.jpg",
+    "imageFile": "LinharesCastle.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Linhares_da_Beira",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:LinharesCastle.jpg"
+  },
+  {
+    "id": "castle-217577",
+    "name": "Castelo de Longroiva",
+    "articleTitle": "Castelo de Longroiva",
+    "description": "Castelo em Longroiva",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Castelo_de_Longroiva_-_M%C3%AAda.jpg",
+    "imageFile": "Castelo_de_Longroiva_-_Mêda.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Longroiva",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Longroiva_-_M%C3%AAda.jpg"
+  },
+  {
+    "id": "castle-218118",
+    "name": "Castelo de Loulé",
+    "articleTitle": "Castelo de Loulé",
+    "description": "castelo medieval em Loulé, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Castelo_de_Loule_-_22.06.2021.jpg/1280px-Castelo_de_Loule_-_22.06.2021.jpg",
+    "imageFile": "Castelo_de_Loule_-_22.06.2021.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Loul%C3%A9",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Loule_-_22.06.2021.jpg"
+  },
+  {
+    "id": "castle-71057",
+    "name": "Castelo de Marialva",
+    "articleTitle": "Castelo de Marialva",
+    "description": "castelo medieval em Marialva",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Marialva_2.jpg",
+    "imageFile": "Marialva_2.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Marialva",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Marialva_2.jpg"
+  },
+  {
+    "id": "castle-218523",
+    "name": "Castelo de Marvão",
+    "articleTitle": "Castelo de Marvão",
+    "description": "castelo medieval em Marvão",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/CastillodeMarvao.jpg/1280px-CastillodeMarvao.jpg",
+    "imageFile": "CastillodeMarvao.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Marv%C3%A3o",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:CastillodeMarvao.jpg"
+  },
+  {
+    "id": "castle-161917",
+    "name": "Castelo de Melgaço",
+    "articleTitle": "Castelo de Melgaço",
+    "description": "castelo medieval em Melgaço",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Castelo_de_Melga%C3%A7o.jpg/1280px-Castelo_de_Melga%C3%A7o.jpg",
+    "imageFile": "Castelo_de_Melgaço.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Melga%C3%A7o",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Melga%C3%A7o.jpg"
+  },
+  {
+    "id": "castle-73958",
+    "name": "Castelo de Mértola",
+    "articleTitle": "Castelo de Mértola",
+    "description": "castelo medieval em Mértola, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/MertolaCastle1-CCBY.jpg",
+    "imageFile": "MertolaCastle1-CCBY.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_M%C3%A9rtola",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:MertolaCastle1-CCBY.jpg"
+  },
+  {
+    "id": "castle-221351",
+    "name": "Castelo de Messejana",
+    "articleTitle": "Castelo de Messejana",
+    "description": "castelo atualmente em ruínas em Messejana, no Município de Aljustrel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Messejana_-_castelo.JPG/1280px-Messejana_-_castelo.JPG",
+    "imageFile": "Messejana_-_castelo.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Messejana",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Messejana_-_castelo.JPG"
+  },
+  {
+    "id": "castle-221456",
+    "name": "Castelo de Miranda do Douro",
+    "articleTitle": "Castelo de Miranda do Douro",
+    "description": "castelo medieval em Miranda do Douro",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Castelo_de_Miranda_do_Douro_001.jpg/1280px-Castelo_de_Miranda_do_Douro_001.jpg",
+    "imageFile": "Castelo_de_Miranda_do_Douro_001.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Miranda_do_Douro",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Miranda_do_Douro_001.jpg"
+  },
+  {
+    "id": "castle-221564",
+    "name": "Castelo de Mirandela",
+    "articleTitle": "Castelo de Mirandela",
+    "description": "castelo medieval em Mirandela de que restam vestígios",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Arco_da_muralha_romana.jpg/1280px-Arco_da_muralha_romana.jpg",
+    "imageFile": "Arco_da_muralha_romana.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Mirandela",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Arco_da_muralha_romana.jpg"
+  },
+  {
+    "id": "castle-221363",
+    "name": "Castelo de Mogadouro",
+    "articleTitle": "Castelo de Mogadouro",
+    "description": "castelo medieval de Mogadouro",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mogadouro_2_-_panoramio.jpg/1280px-Mogadouro_2_-_panoramio.jpg",
+    "imageFile": "Mogadouro_2_-_panoramio.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Mogadouro",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Mogadouro_2_-_panoramio.jpg"
+  },
+  {
+    "id": "castle-222580",
+    "name": "Castelo de Monção",
+    "articleTitle": "Castelo de Monção",
+    "description": "fortaleza em Monção",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mon%C3%A7ao.jpg/1280px-Mon%C3%A7ao.jpg",
+    "imageFile": "Monçao.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Mon%C3%A7%C3%A3o",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Mon%C3%A7ao.jpg"
+  },
+  {
+    "id": "castle-206177",
+    "name": "Castelo de Monforte",
+    "articleTitle": "Castelo de Monforte (Monforte)",
+    "description": "castelo medieval de Monforte de que sobrevivem algumas estruturas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Monforte_-_Portugal_%28449914485%29_castelo_vest%C3%ADgios.jpg",
+    "imageFile": "Monforte_-_Portugal_(449914485)_castelo_vestígios.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Monforte_%28Monforte%29",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Monforte_-_Portugal_%28449914485%29_castelo_vest%C3%ADgios.jpg"
+  },
+  {
+    "id": "castle-104042",
+    "name": "Castelo de Monsanto",
+    "articleTitle": "Castelo de Monsanto",
+    "description": "castelo medieval em Monsanto, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Castle_of_Monsanto.jpg/1280px-Castle_of_Monsanto.jpg",
+    "imageFile": "Castle_of_Monsanto.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Monsanto",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castle_of_Monsanto.jpg"
+  },
+  {
+    "id": "castle-226824",
+    "name": "Castelo de Monsaraz",
+    "articleTitle": "Castelo de Monsaraz",
+    "description": "castelo em Monsaraz, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Monsaraz.jpg",
+    "imageFile": "Monsaraz.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Monsaraz",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Monsaraz.jpg"
+  },
+  {
+    "id": "castle-228183",
+    "name": "Castelo de Montalegre",
+    "articleTitle": "Castelo de Montalegre",
+    "description": "castelo medieval em Montalegre",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Castelo_montalegre.JPG",
+    "imageFile": "Castelo_montalegre.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Montalegre",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_montalegre.JPG"
+  },
+  {
+    "id": "castle-118499",
+    "name": "Castelo de Montalvão",
+    "articleTitle": "Castelo de Montalvão",
+    "description": "castelo medieval em Montalvão",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Castelo_de_Montalv%C3%A3o%2C_Montalv%C3%A3o_10.jpg",
+    "imageFile": "Castelo_de_Montalvão,_Montalvão_10.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Montalv%C3%A3o",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Montalv%C3%A3o%2C_Montalv%C3%A3o_10.jpg"
+  },
+  {
+    "id": "castle-229159",
+    "name": "Castelo de Montemor-o-Novo",
+    "articleTitle": "Castelo de Montemor-o-Novo",
+    "description": "castelo medieval em Montemor-o-Novo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Castelo_de_Montemor-o-Novo3.jpg",
+    "imageFile": "Castelo_de_Montemor-o-Novo3.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Montemor-o-Novo",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Montemor-o-Novo3.jpg"
+  },
+  {
+    "id": "castle-170605",
+    "name": "Castelo de Montemor-o-Velho",
+    "articleTitle": "Castelo de Montemor-o-Velho",
+    "description": "castelo em Montemor-o-Velho, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MontemorVelho-CCBY-4.jpg/1280px-MontemorVelho-CCBY-4.jpg",
+    "imageFile": "MontemorVelho-CCBY-4.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Montemor-o-Velho",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:MontemorVelho-CCBY-4.jpg"
+  },
+  {
+    "id": "castle-234128",
+    "name": "Castelo de Moreira de Rei",
+    "articleTitle": "Castelo de Moreira de Rei",
+    "description": "castelo medieval  em Moreira de Rei em ruínas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ru%C3%ADnas_do_Castelo_de_Moreira_de_Rei_-_Portugal_%285856930271%29.jpg/1280px-Ru%C3%ADnas_do_Castelo_de_Moreira_de_Rei_-_Portugal_%285856930271%29.jpg",
+    "imageFile": "Ruínas_do_Castelo_de_Moreira_de_Rei_-_Portugal_(5856930271).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Moreira_de_Rei",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Ru%C3%ADnas_do_Castelo_de_Moreira_de_Rei_-_Portugal_%285856930271%29.jpg"
+  },
+  {
+    "id": "castle-235348",
+    "name": "Castelo de Moura",
+    "articleTitle": "Castelo de Moura",
+    "description": "Castelo medieval em Moura",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ru%C3%ADnas_do_Castelo_de_Moura_-_Portugal_%288235886036%29.jpg/1280px-Ru%C3%ADnas_do_Castelo_de_Moura_-_Portugal_%288235886036%29.jpg",
+    "imageFile": "Ruínas_do_Castelo_de_Moura_-_Portugal_(8235886036).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Moura",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Ru%C3%ADnas_do_Castelo_de_Moura_-_Portugal_%288235886036%29.jpg"
+  },
+  {
+    "id": "castle-235616",
+    "name": "Castelo de Mourão",
+    "articleTitle": "Castelo de Mourão",
+    "description": "castelo medieval em Mourão",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mour%C3%A3o_%282456484919%29.jpg/1280px-Mour%C3%A3o_%282456484919%29.jpg",
+    "imageFile": "Mourão_(2456484919).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Mour%C3%A3o",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Mour%C3%A3o_%282456484919%29.jpg"
+  },
+  {
+    "id": "castle-118501",
+    "name": "Castelo de Nisa",
+    "articleTitle": "Castelo de Nisa",
+    "description": "castelo medieval em Nisa  de que restam alguns troços das antigas muralhas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Nisa_-_Portugal_%28145069893%29.jpg",
+    "imageFile": "Nisa_-_Portugal_(145069893).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Nisa",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Nisa_-_Portugal_%28145069893%29.jpg"
+  },
+  {
+    "id": "castle-63818",
+    "name": "Castelo de Noudar",
+    "articleTitle": "Castelo de Noudar",
+    "description": "castelo medieval em Noudar, no município de Barrancos",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/A_fortaleza_do_espa%C3%A7o.jpg/1280px-A_fortaleza_do_espa%C3%A7o.jpg",
+    "imageFile": "A_fortaleza_do_espaço.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Noudar",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:A_fortaleza_do_espa%C3%A7o.jpg"
+  },
+  {
+    "id": "castle-257955",
+    "name": "Castelo de Numão",
+    "articleTitle": "Castelo de Numão",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/70481_-_Castelo_de_Num%C3%A3o.jpg/1280px-70481_-_Castelo_de_Num%C3%A3o.jpg",
+    "imageFile": "70481_-_Castelo_de_Numão.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Num%C3%A3o",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:70481_-_Castelo_de_Num%C3%A3o.jpg"
+  },
+  {
+    "id": "castle-103179",
+    "name": "Castelo de Óbidos",
+    "articleTitle": "Castelo de Óbidos",
+    "description": "Castelo medieval em Óbidos",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Obidos_April_2009-4b.jpg/1280px-Obidos_April_2009-4b.jpg",
+    "imageFile": "Obidos_April_2009-4b.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_%C3%93bidos",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Obidos_April_2009-4b.jpg"
+  },
+  {
+    "id": "castle-259033",
+    "name": "Castelo de Odemira",
+    "articleTitle": "Castelo de Odemira",
+    "description": "castelo medieval em Odemira de que restam vestígios",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Antigo_Castelo_e_Biblioteca_Municipal_de_Odemira.jpg",
+    "imageFile": "Antigo_Castelo_e_Biblioteca_Municipal_de_Odemira.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Odemira",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Antigo_Castelo_e_Biblioteca_Municipal_de_Odemira.jpg"
+  },
+  {
+    "id": "castle-224840",
+    "name": "Castelo de Oleiros",
+    "articleTitle": "Castelo de Oleiros",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Castelo_de_Oleiros_em_Urr%C3%B3s_%28Portugal%29.jpg/1280px-Castelo_de_Oleiros_em_Urr%C3%B3s_%28Portugal%29.jpg",
+    "imageFile": "Castelo_de_Oleiros_em_Urrós_(Portugal).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Oleiros",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Oleiros_em_Urr%C3%B3s_%28Portugal%29.jpg"
+  },
+  {
+    "id": "castle-403687",
+    "name": "Castelo de Olivença",
+    "articleTitle": "Castelo de Olivença",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Castelo_de_Oliven%C3%A7a_-_Duarte_D%27Armas_1509.JPG",
+    "imageFile": "Castelo_de_Olivença_-_Duarte_D'Armas_1509.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Oliven%C3%A7a",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Oliven%C3%A7a_-_Duarte_D%27Armas_1509.JPG"
+  },
+  {
+    "id": "castle-260115",
+    "name": "Castelo de Ouguela",
+    "articleTitle": "Castelo de Ouguela",
+    "description": "castelo medieval em Ouguela, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Castelo_de_Ouguela-Campo_Maior.jpg/1280px-Castelo_de_Ouguela-Campo_Maior.jpg",
+    "imageFile": "Castelo_de_Ouguela-Campo_Maior.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Ouguela",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Ouguela-Campo_Maior.jpg"
+  },
+  {
+    "id": "castle-118688",
+    "name": "Castelo de Ourém",
+    "articleTitle": "Castelo de Ourém",
+    "description": "castelo em Ourém",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Castelo_estatua_ourem.jpg/1280px-Castelo_estatua_ourem.jpg",
+    "imageFile": "Castelo_estatua_ourem.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Our%C3%A9m",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_estatua_ourem.jpg"
+  },
+  {
+    "id": "castle-260655",
+    "name": "Castelo de Ourique",
+    "articleTitle": "Castelo de Ourique",
+    "description": "Ourique - Portugal - Arquitectura Militar / Castelo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Miradouro_de_Ourique_-_Portugal_%2853146126244%29.jpg/1280px-Miradouro_de_Ourique_-_Portugal_%2853146126244%29.jpg",
+    "imageFile": "Miradouro_de_Ourique_-_Portugal_(53146126244).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Ourique",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Miradouro_de_Ourique_-_Portugal_%2853146126244%29.jpg"
+  },
+  {
+    "id": "castle-262007",
+    "name": "Castelo de Paderne",
+    "articleTitle": "Castelo de Paderne",
+    "description": "castelo medieval árabe de Paderne, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Paderne_Castle_26_Nov_2007_%289%29.JPG/1280px-Paderne_Castle_26_Nov_2007_%289%29.JPG",
+    "imageFile": "Paderne_Castle_26_Nov_2007_(9).JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Paderne",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Paderne_Castle_26_Nov_2007_%289%29.JPG"
+  },
+  {
+    "id": "castle-56322",
+    "name": "Castelo de Palmela",
+    "articleTitle": "Castelo de Palmela",
+    "description": "castelo medieval em Palmela, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/PalmelaCastle1.jpg",
+    "imageFile": "PalmelaCastle1.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Palmela",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:PalmelaCastle1.jpg"
+  },
+  {
+    "id": "castle-206523",
+    "name": "Castelo de Pena de Aguiar",
+    "articleTitle": "Castelo de Pena de Aguiar",
+    "description": "castelo medieval em Vila Pouca de Aguiar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Castelo_de_Aguiar_04.JPG/1280px-Castelo_de_Aguiar_04.JPG",
+    "imageFile": "Castelo_de_Aguiar_04.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Pena_de_Aguiar",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Aguiar_04.JPG"
+  },
+  {
+    "id": "castle-275590",
+    "name": "Castelo de Penacova",
+    "articleTitle": "Castelo de Penacova",
+    "description": "antigo castelo medieval actualmente inexistente",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Penacova_-_Portugal_%284343626049%29.jpg/1280px-Penacova_-_Portugal_%284343626049%29.jpg",
+    "imageFile": "Penacova_-_Portugal_(4343626049).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Penacova",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Penacova_-_Portugal_%284343626049%29.jpg"
+  },
+  {
+    "id": "castle-17751",
+    "name": "Castelo de Penalva",
+    "articleTitle": "Castelo de Penalva",
+    "description": "freguesia do Município de Penalva do Castelo, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Igreja_Matriz_de_Castelo_de_Penalva_-_Portugal_%2850454541367%29.jpg/1280px-Igreja_Matriz_de_Castelo_de_Penalva_-_Portugal_%2850454541367%29.jpg",
+    "imageFile": "Igreja_Matriz_de_Castelo_de_Penalva_-_Portugal_(50454541367).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Penalva",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Igreja_Matriz_de_Castelo_de_Penalva_-_Portugal_%2850454541367%29.jpg"
+  },
+  {
+    "id": "castle-194099",
+    "name": "Castelo de Penamacor",
+    "articleTitle": "Castelo de Penamacor",
+    "description": "castelo medieval de Penamacor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Torre_de_Menagem_do_Castelo_de_Penamacor.JPG/1280px-Torre_de_Menagem_do_Castelo_de_Penamacor.JPG",
+    "imageFile": "Torre_de_Menagem_do_Castelo_de_Penamacor.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Penamacor",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Torre_de_Menagem_do_Castelo_de_Penamacor.JPG"
+  },
+  {
+    "id": "castle-281865",
+    "name": "Castelo de Penas Roias",
+    "articleTitle": "Castelo de Penas Roias",
+    "description": "castelo medieval em Penas Roias, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Castelo_de_Penas_Roias_-_Mogadouro_%28Portugal%29.jpg",
+    "imageFile": "Castelo_de_Penas_Roias_-_Mogadouro_(Portugal).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Penas_Roias",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Penas_Roias_-_Mogadouro_%28Portugal%29.jpg"
+  },
+  {
+    "id": "castle-105185",
+    "name": "Castelo de Penedono",
+    "articleTitle": "Castelo de Penedono",
+    "description": "castelo medieval em Penedono",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Castelo_de_Penedono.jpg",
+    "imageFile": "Castelo_de_Penedono.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Penedono",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Penedono.jpg"
+  },
+  {
+    "id": "castle-296303",
+    "name": "Castelo de Penela",
+    "articleTitle": "Castelo de Penela",
+    "description": "castelo em Penela, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Castelo_de_Penela_-_vista_geral.JPG/1280px-Castelo_de_Penela_-_vista_geral.JPG",
+    "imageFile": "Castelo_de_Penela_-_vista_geral.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Penela",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Penela_-_vista_geral.JPG"
+  },
+  {
+    "id": "castle-310819",
+    "name": "Castelo de Penha Garcia",
+    "articleTitle": "Castelo de Penha Garcia",
+    "description": "Castelo medieval em Penha Garcia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Castelo_de_Penha_Garcia_-_Portugal_%2830527664653%29.jpg/1280px-Castelo_de_Penha_Garcia_-_Portugal_%2830527664653%29.jpg",
+    "imageFile": "Castelo_de_Penha_Garcia_-_Portugal_(30527664653).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Penha_Garcia",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Penha_Garcia_-_Portugal_%2830527664653%29.jpg"
+  },
+  {
+    "id": "castle-317592",
+    "name": "Castelo de Pinhel",
+    "articleTitle": "Castelo de Pinhel",
+    "description": "castelo medieval em Pinhel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Castelo_de_Pinhel.jpg",
+    "imageFile": "Castelo_de_Pinhel.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Pinhel",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Pinhel.jpg"
+  },
+  {
+    "id": "castle-318458",
+    "name": "Castelo de Pirescoxe",
+    "articleTitle": "Castelo de Pirescoxe",
+    "description": "mansão acastelada em Pirescoxe, Loures, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Castelo_de_Pirescoxe.JPG/1280px-Castelo_de_Pirescoxe.JPG",
+    "imageFile": "Castelo_de_Pirescoxe.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Pirescoxe",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Pirescoxe.JPG"
+  },
+  {
+    "id": "castle-104054",
+    "name": "Castelo de Pombal",
+    "articleTitle": "Castelo de Pombal",
+    "description": "castelo medieval em Pombal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pombal1.jpg/1280px-Pombal1.jpg",
+    "imageFile": "Pombal1.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Pombal",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Pombal1.jpg"
+  },
+  {
+    "id": "castle-324576",
+    "name": "Castelo de Portalegre",
+    "articleTitle": "Castelo de Portalegre",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Muralha_e_Museu_do_Castelo_de_Portalegre_%28pormenor%29.jpg/1280px-Muralha_e_Museu_do_Castelo_de_Portalegre_%28pormenor%29.jpg",
+    "imageFile": "Muralha_e_Museu_do_Castelo_de_Portalegre_(pormenor).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Portalegre",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Muralha_e_Museu_do_Castelo_de_Portalegre_%28pormenor%29.jpg"
+  },
+  {
+    "id": "castle-327821",
+    "name": "Castelo de Portel",
+    "articleTitle": "Castelo de Portel",
+    "description": "castelo medieval em Portel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Castelo_de_Portel.JPG/1280px-Castelo_de_Portel.JPG",
+    "imageFile": "Castelo_de_Portel.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Portel",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Portel.JPG"
+  },
+  {
+    "id": "castle-103751",
+    "name": "Castelo de Porto de Mós",
+    "articleTitle": "Castelo de Porto de Mós",
+    "description": "castelo em Porto de Mós",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Castelo_de_Porto_de_M%C3%B3s_1.JPG/1280px-Castelo_de_Porto_de_M%C3%B3s_1.JPG",
+    "imageFile": "Castelo_de_Porto_de_Mós_1.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Porto_de_M%C3%B3s",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Porto_de_M%C3%B3s_1.JPG"
+  },
+  {
+    "id": "castle-328336",
+    "name": "Castelo de Portuzelo",
+    "articleTitle": "Castelo de Portuzelo",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Castelo_de_Portuzelo.jpg",
+    "imageFile": "Castelo_de_Portuzelo.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Portuzelo",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Portuzelo.jpg"
+  },
+  {
+    "id": "castle-2570867",
+    "name": "Castelo de Proença-a-Velha",
+    "articleTitle": "Castelo de Proença-a-Velha",
+    "description": "antigo castelo medieval actualmente inexistente",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Chaodocastelo.JPG",
+    "imageFile": "Chaodocastelo.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Proen%C3%A7a-a-Velha",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Chaodocastelo.JPG"
+  },
+  {
+    "id": "castle-328655",
+    "name": "Castelo de Ranhados",
+    "articleTitle": "Castelo de Ranhados",
+    "description": "castelo medieval em Ranhados, no município de Mêda",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Castelo_de_Ranhados_-_Portugal_%28193353876%29.jpg",
+    "imageFile": "Castelo_de_Ranhados_-_Portugal_(193353876).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Ranhados",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Ranhados_-_Portugal_%28193353876%29.jpg"
+  },
+  {
+    "id": "castle-329041",
+    "name": "Castelo de Rebordãos",
+    "articleTitle": "Castelo de Rebordãos",
+    "description": "castelo medieval em Rebordãos, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Castelo_de_Rebord%C3%A3os_41.jpg/1280px-Castelo_de_Rebord%C3%A3os_41.jpg",
+    "imageFile": "Castelo_de_Rebordãos_41.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Rebord%C3%A3os",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Rebord%C3%A3os_41.jpg"
+  },
+  {
+    "id": "castle-329081",
+    "name": "Castelo de Redondo",
+    "articleTitle": "Castelo de Redondo",
+    "description": "castelo medieval em Redondo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Redondo1234.jpg/1280px-Redondo1234.jpg",
+    "imageFile": "Redondo1234.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Redondo",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Redondo1234.jpg"
+  },
+  {
+    "id": "castle-118743",
+    "name": "Castelo de Ródão",
+    "articleTitle": "Castelo de Ródão",
+    "description": "castelo de fundação templária em Vila Velha de Ródão",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Castelo_do_Rei_Wamba%2C_Vila_Velha_de_R%C3%B3d%C3%A3o_II.jpg/1280px-Castelo_do_Rei_Wamba%2C_Vila_Velha_de_R%C3%B3d%C3%A3o_II.jpg",
+    "imageFile": "Castelo_do_Rei_Wamba,_Vila_Velha_de_Ródão_II.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_R%C3%B3d%C3%A3o",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_do_Rei_Wamba%2C_Vila_Velha_de_R%C3%B3d%C3%A3o_II.jpg"
+  },
+  {
+    "id": "castle-329745",
+    "name": "Castelo de Salir",
+    "articleTitle": "Castelo de Salir",
+    "description": "antigo castelo medieval em Salir, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/21-05-2017_Ru%C3%ADnas_do_Castelo_de_Salir_%281%29.JPG/1280px-21-05-2017_Ru%C3%ADnas_do_Castelo_de_Salir_%281%29.JPG",
+    "imageFile": "21-05-2017_Ruínas_do_Castelo_de_Salir_(1).JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Salir",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:21-05-2017_Ru%C3%ADnas_do_Castelo_de_Salir_%281%29.JPG"
+  },
+  {
+    "id": "castle-329981",
+    "name": "Castelo de Salvaterra do Extremo",
+    "articleTitle": "Castelo de Salvaterra do Extremo",
+    "description": "castelo medieval de que restam apenas vestígios na atualidade",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Torre_do_Rel%C3%B3gio_-_Salvaterra_do_Extremo_-_Portugal_%2840226135452%29.jpg/1280px-Torre_do_Rel%C3%B3gio_-_Salvaterra_do_Extremo_-_Portugal_%2840226135452%29.jpg",
+    "imageFile": "Torre_do_Relógio_-_Salvaterra_do_Extremo_-_Portugal_(40226135452).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Salvaterra_do_Extremo",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Torre_do_Rel%C3%B3gio_-_Salvaterra_do_Extremo_-_Portugal_%2840226135452%29.jpg"
+  },
+  {
+    "id": "castle-103701",
+    "name": "Castelo de Santa Maria da Feira",
+    "articleTitle": "Castelo de Santa Maria da Feira",
+    "description": "castelo em Santa Maria da Feira",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Castelo_da_Feira.jpg/1280px-Castelo_da_Feira.jpg",
+    "imageFile": "Castelo_da_Feira.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Santa_Maria_da_Feira",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_da_Feira.jpg"
+  },
+  {
+    "id": "castle-118697",
+    "name": "Castelo de Santarém",
+    "articleTitle": "Castelo de Santarém",
+    "description": "castelo medieval em Santarém",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Portas_do_Sol_-_Santar%C3%A9m_-_Portugal_%284531614261%29.jpg/1280px-Portas_do_Sol_-_Santar%C3%A9m_-_Portugal_%284531614261%29.jpg",
+    "imageFile": "Portas_do_Sol_-_Santarém_-_Portugal_(4531614261).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Santar%C3%A9m",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Portas_do_Sol_-_Santar%C3%A9m_-_Portugal_%284531614261%29.jpg"
+  },
+  {
+    "id": "castle-344055",
+    "name": "Castelo de Santiago do Cacém",
+    "articleTitle": "Castelo de Santiago do Cacém",
+    "description": "castelo medieval em Santiago do Cacém",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Castelo_no_cimo_do_monte.jpg",
+    "imageFile": "Castelo_no_cimo_do_monte.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Santiago_do_Cac%C3%A9m",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_no_cimo_do_monte.jpg"
+  },
+  {
+    "id": "castle-206455",
+    "name": "Castelo de Santo Estêvão",
+    "articleTitle": "Castelo de Santo Estêvão",
+    "description": "castelo medieval em Santo Estêvão",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Castelo_Santo_Estevao_perto_Chaves_02.JPG/1280px-Castelo_Santo_Estevao_perto_Chaves_02.JPG",
+    "imageFile": "Castelo_Santo_Estevao_perto_Chaves_02.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Santo_Est%C3%AAv%C3%A3o",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_Santo_Estevao_perto_Chaves_02.JPG"
+  },
+  {
+    "id": "castle-97878",
+    "name": "Castelo de São João do Arade",
+    "articleTitle": "Castelo de São João do Arade",
+    "description": "forte em Ferragudo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Castelo_de_S._Jo%C3%A3o_do_Arade.jpg/1280px-Castelo_de_S._Jo%C3%A3o_do_Arade.jpg",
+    "imageFile": "Castelo_de_S._João_do_Arade.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_S%C3%A3o_Jo%C3%A3o_do_Arade",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_S._Jo%C3%A3o_do_Arade.jpg"
+  },
+  {
+    "id": "castle-54875",
+    "name": "Castelo de São Jorge",
+    "articleTitle": "Castelo de São Jorge",
+    "description": "castelo em Lisboa, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Castelo_de_S%C3%A3o_Jorge_%2810251035013%29.jpg/1280px-Castelo_de_S%C3%A3o_Jorge_%2810251035013%29.jpg",
+    "imageFile": "Castelo_de_São_Jorge_(10251035013).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_S%C3%A3o_Jorge",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_S%C3%A3o_Jorge_%2810251035013%29.jpg"
+  },
+  {
+    "id": "castle-352525",
+    "name": "Castelo de Segura",
+    "articleTitle": "Castelo de Segura",
+    "description": "castelo medieval em Segura de que restam algumas estruturas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fortaleza_de_Segura.JPG/1280px-Fortaleza_de_Segura.JPG",
+    "imageFile": "Fortaleza_de_Segura.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Segura",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Fortaleza_de_Segura.JPG"
+  },
+  {
+    "id": "castle-408657",
+    "name": "Castelo de Seia",
+    "articleTitle": "Castelo de Seia",
+    "description": "castelo medieval em Seia desaparecido",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Castelo_de_Seia_vest%C3%ADgios_%282%29.jpg/1280px-Castelo_de_Seia_vest%C3%ADgios_%282%29.jpg",
+    "imageFile": "Castelo_de_Seia_vestígios_(2).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Seia",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Seia_vest%C3%ADgios_%282%29.jpg"
+  },
+  {
+    "id": "castle-361284",
+    "name": "Castelo de Sernancelhe",
+    "articleTitle": "Castelo de Sernancelhe",
+    "description": "castelo medieval encontra-se actualmente em ruínas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Vista_para_a_colina_do_castelo_de_Sernancelhe_%285986789749%29.jpg",
+    "imageFile": "Vista_para_a_colina_do_castelo_de_Sernancelhe_(5986789749).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Sernancelhe",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Vista_para_a_colina_do_castelo_de_Sernancelhe_%285986789749%29.jpg"
+  },
+  {
+    "id": "castle-361521",
+    "name": "Castelo de Serpa",
+    "articleTitle": "Castelo de Serpa",
+    "description": "castelo medieval em Serpa, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Castelo_de_Serpa_1.JPG/1280px-Castelo_de_Serpa_1.JPG",
+    "imageFile": "Castelo_de_Serpa_1.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Serpa",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Serpa_1.JPG"
+  },
+  {
+    "id": "castle-71096",
+    "name": "Castelo de Sesimbra",
+    "articleTitle": "Castelo de Sesimbra",
+    "description": "castelo medieval em Sesimbra",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Castelo_de_Sesimbra_-_vista_exterior.JPG/1280px-Castelo_de_Sesimbra_-_vista_exterior.JPG",
+    "imageFile": "Castelo_de_Sesimbra_-_vista_exterior.JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Sesimbra",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Sesimbra_-_vista_exterior.JPG"
+  },
+  {
+    "id": "castle-106717",
+    "name": "Castelo de Silves",
+    "articleTitle": "Castelo de Silves",
+    "description": "castelo medieval muçulmano em Silves, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Castelo_de_Silves.26-04-18.jpg/1280px-Castelo_de_Silves.26-04-18.jpg",
+    "imageFile": "Castelo_de_Silves.26-04-18.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Silves",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Silves.26-04-18.jpg"
+  },
+  {
+    "id": "castle-104278",
+    "name": "Castelo de Sines",
+    "articleTitle": "Castelo de Sines",
+    "description": "castelo medieval com alterações góticas e setecentistas, em Sines",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Sines_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2853924661507%29.jpg/1280px-Sines_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2853924661507%29.jpg",
+    "imageFile": "Sines_-_Portugal_🇵🇹_(53924661507).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Sines",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Sines_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2853924661507%29.jpg"
+  },
+  {
+    "id": "castle-157573",
+    "name": "Castelo de Sortelha",
+    "articleTitle": "Castelo de Sortelha",
+    "description": "castelo medieval em Sortelha, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/SortelhaCastle.jpg",
+    "imageFile": "SortelhaCastle.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Sortelha",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:SortelhaCastle.jpg"
+  },
+  {
+    "id": "castle-75123",
+    "name": "Castelo de Soure",
+    "articleTitle": "Castelo de Soure",
+    "description": "castelo em Soure, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Castelo_de_Soure.jpg",
+    "imageFile": "Castelo_de_Soure.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Soure",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Soure.jpg"
+  },
+  {
+    "id": "castle-383418",
+    "name": "Castelo de Tavira",
+    "articleTitle": "Castelo de Tavira",
+    "description": "castelo em Tavira",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tavira_Castelo1.jpg/1280px-Tavira_Castelo1.jpg",
+    "imageFile": "Tavira_Castelo1.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Tavira",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Tavira_Castelo1.jpg"
+  },
+  {
+    "id": "castle-265403",
+    "name": "Castelo de Terena",
+    "articleTitle": "Castelo de Terena",
+    "description": "castelo medieval de Terena, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Castelo_de_Terena_-_Portugal_%2826947422464%29.jpg/1280px-Castelo_de_Terena_-_Portugal_%2826947422464%29.jpg",
+    "imageFile": "Castelo_de_Terena_-_Portugal_(26947422464).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Terena",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Terena_-_Portugal_%2826947422464%29.jpg"
+  },
+  {
+    "id": "castle-75136",
+    "name": "Castelo de Tomar",
+    "articleTitle": "Castelo de Tomar",
+    "description": "Castelo medieval em Tomar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tomar_Castelo_0244.jpg/1280px-Tomar_Castelo_0244.jpg",
+    "imageFile": "Tomar_Castelo_0244.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Tomar",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Tomar_Castelo_0244.jpg"
+  },
+  {
+    "id": "castle-170711",
+    "name": "Castelo de Torre de Coelheiros",
+    "articleTitle": "Castelo de Torre de Coelheiros",
+    "description": "edifício histórico em Torre de Coelheiros, no Município de Évora, em Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Torre_de_Coelheiros_Torre_Medieval_de_Coguminhos_01.jpg/1280px-Torre_de_Coelheiros_Torre_Medieval_de_Coguminhos_01.jpg",
+    "imageFile": "Torre_de_Coelheiros_Torre_Medieval_de_Coguminhos_01.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Torre_de_Coelheiros",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Torre_de_Coelheiros_Torre_Medieval_de_Coguminhos_01.jpg"
+  },
+  {
+    "id": "castle-240509",
+    "name": "Castelo de Torre de Moncorvo",
+    "articleTitle": "Castelo de Torre de Moncorvo",
+    "description": "castelo em Torre de Moncorvo, no distrito de Bragança, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Torre_de_Moncorvo_-_Portugal_%2814139663206%29.jpg/1280px-Torre_de_Moncorvo_-_Portugal_%2814139663206%29.jpg",
+    "imageFile": "Torre_de_Moncorvo_-_Portugal_(14139663206).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Torre_de_Moncorvo",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Torre_de_Moncorvo_-_Portugal_%2814139663206%29.jpg"
+  },
+  {
+    "id": "castle-118721",
+    "name": "Castelo de Torres Novas",
+    "articleTitle": "Castelo de Torres Novas",
+    "description": "castelo medieval em Torres Novas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Castelo_de_Torres_Novas_%2826%29.JPG/1280px-Castelo_de_Torres_Novas_%2826%29.JPG",
+    "imageFile": "Castelo_de_Torres_Novas_(26).JPG",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Torres_Novas",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Torres_Novas_%2826%29.JPG"
+  },
+  {
+    "id": "castle-118736",
+    "name": "Castelo de Torres Vedras",
+    "articleTitle": "Castelo de Torres Vedras",
+    "description": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/TorresVedras-CCBY.jpg",
+    "imageFile": "TorresVedras-CCBY.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Torres_Vedras",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:TorresVedras-CCBY.jpg"
+  },
+  {
+    "id": "castle-408141",
+    "name": "Castelo de Trancoso",
+    "articleTitle": "Castelo de Trancoso",
+    "description": "castelo medieval em Trancoso",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Trancoso2.jpg",
+    "imageFile": "Trancoso2.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Trancoso",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Trancoso2.jpg"
+  },
+  {
+    "id": "castle-448649",
+    "name": "Castelo de Valença",
+    "articleTitle": "Castelo de Valença",
+    "description": "castelo medieval em Valença que foi demolido para construção de uma fortaleza no século XVII",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Valen%C3%A7a.jpg",
+    "imageFile": "Valença.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Valen%C3%A7a",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Valen%C3%A7a.jpg"
+  },
+  {
+    "id": "castle-303618",
+    "name": "Castelo de Valongo",
+    "articleTitle": "Castelo de Valongo",
+    "description": "castelo medieval no município de Évora",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Valongo03.jpg",
+    "imageFile": "Valongo03.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Valongo",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Valongo03.jpg"
+  },
+  {
+    "id": "castle-411236",
+    "name": "Castelo de Veiros",
+    "articleTitle": "Castelo de Veiros",
+    "description": "castelo medieval em Veiros, município de Estremoz",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Castelo_de_Veiros_-_Portugal_%288585744360%29.jpg/1280px-Castelo_de_Veiros_-_Portugal_%288585744360%29.jpg",
+    "imageFile": "Castelo_de_Veiros_-_Portugal_(8585744360).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Veiros",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Veiros_-_Portugal_%288585744360%29.jpg"
+  },
+  {
+    "id": "castle-3968460",
+    "name": "Castelo de Vermoim",
+    "articleTitle": "Castelo de Vermoim",
+    "description": "antigo povoado fortificado da Idade do Ferro e castelo medieval em Vermoim, Vila Nova de Famalicão",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Castelo_de_Vermoim.png",
+    "imageFile": "Castelo_de_Vermoim.png",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Vermoim",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Vermoim.png"
+  },
+  {
+    "id": "castle-416330",
+    "name": "Castelo de Viana do Alentejo",
+    "articleTitle": "Castelo de Viana do Alentejo",
+    "description": "castelo medieval em Viana do Alentejo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2008.01.10.132306_Burg_Viana_do_Alentejo_Portugal.jpg/1280px-2008.01.10.132306_Burg_Viana_do_Alentejo_Portugal.jpg",
+    "imageFile": "2008.01.10.132306_Burg_Viana_do_Alentejo_Portugal.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Viana_do_Alentejo",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:2008.01.10.132306_Burg_Viana_do_Alentejo_Portugal.jpg"
+  },
+  {
+    "id": "castle-7580",
+    "name": "Castelo de Vide",
+    "articleTitle": "Castelo de Vide",
+    "description": "município de Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Castelo_de_Vide.jpg/1280px-Castelo_de_Vide.jpg",
+    "imageFile": "Castelo_de_Vide.jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Vide",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Castelo_de_Vide.jpg"
+  },
+  {
+    "id": "castle-417617",
+    "name": "Castelo de Vila do Touro",
+    "articleTitle": "Castelo de Vila do Touro",
+    "description": "castelo medieval no município do Sabugal, Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Muralhas_do_Castelo_de_Vila_do_Touro_-_Portugal_%2819336368505%29.jpg/1280px-Muralhas_do_Castelo_de_Vila_do_Touro_-_Portugal_%2819336368505%29.jpg",
+    "imageFile": "Muralhas_do_Castelo_de_Vila_do_Touro_-_Portugal_(19336368505).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Vila_do_Touro",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Muralhas_do_Castelo_de_Vila_do_Touro_-_Portugal_%2819336368505%29.jpg"
+  },
+  {
+    "id": "castle-417940",
+    "name": "Castelo de Vila Flor",
+    "articleTitle": "Castelo de Vila Flor",
+    "description": "castelo medieval em Vila Flor de que restam vestígios",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Arco_de_Dom_Dinis%2C_Vila_Flor_%2815363875740%29.jpg/1280px-Arco_de_Dom_Dinis%2C_Vila_Flor_%2815363875740%29.jpg",
+    "imageFile": "Arco_de_Dom_Dinis,_Vila_Flor_(15363875740).jpg",
+    "articleUrl": "https://pt.wikipedia.org/wiki/Castelo_de_Vila_Flor",
+    "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Arco_de_Dom_Dinis%2C_Vila_Flor_%2815363875740%29.jpg"
+  },
   {
     "id": "castle-123941",
     "name": "Castelo de Vila Nova de Cerveira",
@@ -699,4 +2060,3 @@
     "imageInfoUrl": "https://commons.wikimedia.org/wiki/File:Torre_do_Rel%C3%B3gio_Meda.jpg"
   }
 ]
-
