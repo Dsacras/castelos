@@ -52,5 +52,3 @@ $outDir = Split-Path -Parent $OutputPath
 New-Item -ItemType Directory -Path $outDir -Force | Out-Null
 $castles | ConvertTo-Json -Depth 5 | Set-Content -Path $OutputPath -Encoding utf8
 Write-Host "Guardados $($castles.Count) castelos com fotografia em $OutputPath"
-
-

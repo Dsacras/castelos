@@ -3,33 +3,45 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Quiz fotográfico sobre castelos portugueses, inspirado na mecânica do Joker.">
-  <title>Castelo ou Mistério?</title>
+  <meta name="description" content="Quiz fotográfico sobre castelos e monumentos portugueses, inspirado na mecânica do Joker.">
+  <title>Portugal ou Mistério?</title>
   <link rel="preconnect" href="https://upload.wikimedia.org">
-  <link rel="stylesheet" href="styles.css?v=3">
+  <link rel="stylesheet" href="styles.css?v=4">
 </head>
-<body>
+<body class="theme-castles">
   <main class="shell">
     <header class="topbar">
-      <a class="brand" href="./" aria-label="Castelo ou Mistério — início">
+      <a class="brand" href="./" aria-label="Portugal ou Mistério — início">
         <span class="brand-mark">♜</span>
-        <span><b>CASTELO</b><small>OU MISTÉRIO?</small></span>
+        <span><b>PORTUGAL</b><small>OU MISTÉRIO?</small></span>
       </a>
       <button id="soundButton" class="icon-button" type="button" aria-label="Ativar música" aria-pressed="false">♪</button>
     </header>
 
     <section id="startScreen" class="start-screen panel">
-      <div class="eyebrow">✦ QUIZ DO REINO DE PORTUGAL ✦</div>
-      <h1>Conheces os castelos<br><em>de lés a lés?</em></h1>
-      <p class="lead">Aceita o desafio da Coroa: reconhece 12 castelos pela fotografia. Tens 7 Jokers para quebrar respostas falsas — usa-os com sabedoria.</p>
+      <div class="eyebrow">✦ QUIZ DO PATRIMÓNIO PORTUGUÊS ✦</div>
+      <h1>Conheces Portugal<br><em>de lés a lés?</em></h1>
+      <p id="challengeDescription" class="lead">Escolhe um desafio e reconhece 12 lugares pela fotografia. Tens 7 Jokers para quebrar respostas falsas — usa-os com sabedoria.</p>
+      <div class="mode-picker" role="radiogroup" aria-label="Escolher tema do quiz">
+        <button class="mode-card selected" type="button" data-mode="castles" role="radio" aria-checked="true">
+          <span class="mode-icon">♜</span><strong>Castelos</strong><small id="castleModeCount">A carregar…</small>
+        </button>
+        <button class="mode-card" type="button" data-mode="monuments" role="radio" aria-checked="false">
+          <span class="mode-icon">◆</span><strong>Monumentos</strong><small id="monumentModeCount">A carregar…</small>
+        </button>
+      </div>
+      <div class="difficulty-picker" role="radiogroup" aria-label="Escolher dificuldade">
+        <button class="difficulty-button selected" type="button" data-difficulty="normal" role="radio" aria-checked="true"><strong>Normal</strong><small>Tempo alargado · 7 Jokers</small></button>
+        <button class="difficulty-button" type="button" data-difficulty="hard" role="radio" aria-checked="false"><strong>Difícil</strong><small>10 segundos · sem Jokers</small></button>
+      </div>
       <div class="rules-grid">
         <div><strong>12</strong><span>perguntas</span></div>
         <div><strong>4</strong><span>opções</span></div>
-        <div><strong>7</strong><span>Jokers</span></div>
+        <div><strong id="rulesJokers">7</strong><span>Jokers</span></div>
         <div><strong>50 000 €</strong><span>prémio virtual</span></div>
       </div>
       <button id="startButton" class="primary-button" type="button" disabled>Começar o desafio <span>→</span></button>
-      <p id="catalogueCount" class="catalogue-note">A preparar o catálogo…</p>
+      <p id="catalogueCount" class="catalogue-note">A preparar os catálogos…</p>
     </section>
 
     <section id="gameScreen" class="game-screen" hidden>
@@ -40,7 +52,7 @@
 
       <section class="quiz-card panel">
         <div class="quiz-meta">
-          <span id="questionNumber">PERGUNTA 1 DE 12</span>
+          <div class="quiz-context"><span id="difficultyBadge" class="difficulty-badge">NORMAL</span><span id="questionNumber">PERGUNTA 1 DE 12</span></div>
           <div class="timer" aria-label="Tempo restante"><span id="timerValue">30</span><small>s</small></div>
         </div>
         <div class="progress"><span id="progressBar"></span></div>
@@ -48,7 +60,7 @@
           <img id="castleImage" alt="Castelo português a identificar">
           <figcaption><a id="imageCredit" target="_blank" rel="noopener">Fonte e autoria da fotografia ↗</a></figcaption>
         </figure>
-        <h2>Que castelo é este?</h2>
+        <h2 id="questionPrompt">Que castelo é este?</h2>
         <div id="answers" class="answers"></div>
         <div class="action-row">
           <button id="jokerButton" class="joker-button" type="button"><span class="joker-symbol">★</span> USAR JOKER <b id="jokerCount">7</b></button>
@@ -57,7 +69,7 @@
         <p id="feedback" class="feedback" aria-live="polite"></p>
       </section>
 
-      <aside class="status panel">
+      <aside id="jokerStatus" class="status panel">
         <p class="aside-label">EM JOGO</p>
         <div class="joker-orbit"><span>★</span><strong id="sideJokerCount">7</strong><small>JOKERS</small></div>
         <p>Um Joker elimina uma opção errada e acrescenta 15 segundos.</p>
@@ -73,6 +85,6 @@
     </section>
   </main>
   <footer>❦ Projeto educativo independente, inspirado na mecânica de concursos televisivos. Não afiliado à RTP. ❦</footer>
-  <script src="app.js" defer></script>
+  <script src="app.js?v=4" defer></script>
 </body>
 </html>
